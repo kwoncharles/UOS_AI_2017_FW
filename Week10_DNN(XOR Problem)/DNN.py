@@ -73,12 +73,12 @@ while(True):
         L1 = np.dot(train_data[idx[i]],w1) # (input * w1)
         
         L1_cal = relu(L1)
-        L1 = np.append(1,L1_cal) # bias 삽입
+        L1 = np.append(1,L1_cal) # bias
         L2 = np.dot(L1,w2)                 # (Layer1 * w2)
         
         # activation
         L2_cal = relu(L2)
-        L2 = np.append(1,L2_cal) # bias 삽입
+        L2 = np.append(1,L2_cal) # bias 
         L3 = np.dot(L2,w3)                 # (Layer1 * w2)
             
         active = sigmoid(L3)
@@ -157,7 +157,7 @@ fp = open("test_output.txt",'wt')
 
 correct = 0
 
-fp.write("\n2015920070 신권철\nTrain log\n\n")
+fp.write("\nTrain log\n\n")
 for i in range(4):
     L1 = np.dot(train_data[i],w1)
     L1 = relu(L1)

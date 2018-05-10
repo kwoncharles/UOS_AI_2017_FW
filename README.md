@@ -4,6 +4,7 @@ The series of assignments of UOS AI class.
 
 * Week 01-10 are code from scratch. (Only use numpy and Tkinter).
 * Week 12,13 are using keras with theano.
+* 4 data files in root folder are MNIST data.
 
 ## Details
 * Week 01 - A simple fish classify problem

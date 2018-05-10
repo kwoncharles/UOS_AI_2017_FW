@@ -17,7 +17,7 @@ The series of assignments of UOS AI class.
 * Week 12 - MNIST with CNN on Keras
 * Week 13 - Features of CNN with MNIST
 
-* If you have any question with any of this repository, message me or email to skc7401@gmail.com
+* If you have any question with any of this repository, message me or email skc7401@gmail.com
 
 
 ## Version

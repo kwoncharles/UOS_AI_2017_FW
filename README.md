@@ -2,8 +2,22 @@
 
 The series of assignments of UOS AI class.
 
-* All of works are code from scratch. (Only use numpy and Tkinter) 
-* Most of the footnotes are written in Korean. If you have any question with any of this repository, message me or email to skc7401@gmail.com
+* Week 01-10 are code from scratch. (Only use numpy and Tkinter).
+* Week 12,13 are using keras with theano.
+
+## Details
+* Week 01 - A simple fish classify problem
+* Week 02 - Astar algorithm (Finding the shortest path in a matrix map)
+* Week 03 - Improving a simple fish classifier with updated weight
+* Week 04 - Improving a simple fish classifier with Genetic algorithm
+* Week 06 - Apply perceptron on a simple fish classifier
+* Week 08 - Single layer perceptron with MNIST data
+* Week 09 - Multi layer perceptron with XOR Problem (Compute gradient with Back propagation)
+* Week 10 - Deep Neural Network with XOR Problem (Compute gradient with Back propagation)
+* Week 12 - MNIST with CNN on Keras
+* Week 13 - Features of CNN with MNIST
+
+* If you have any question with any of this repository, message me or email to skc7401@gmail.com
 
 
 ## Version

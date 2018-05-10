@@ -16,7 +16,7 @@ for line in lines:
 salmon = list()
 seabass = list()
 
-# The ratio of (length : tail length) is smaller than 8 is salmon, else seabass
+# The ratio of (length : tail length) is lower than 8 is salmon, else seabass
 for i in range(len(fish)):
     
     if (int(fish[i][0])/int(fish[i][1]) < 8):

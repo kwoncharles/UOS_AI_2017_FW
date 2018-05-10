@@ -1,0 +1,21 @@
+
+2015920070 신권철
+Train log
+
+---correct---
+Data : [0,0]
+Answer : [0]
+
+---correct---
+Data : [0,1]
+Answer : [1]
+
+---correct---
+Data : [1,0]
+Answer : [1]
+
+---correct---
+Data : [1,1]
+Answer : [0]
+
+Error rate : 0.000000

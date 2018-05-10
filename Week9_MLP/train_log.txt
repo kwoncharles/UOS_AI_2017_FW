@@ -1,0 +1,4000 @@
+epoch 1
+cost : 0.0751487649977
+error_rate : 0.5
+
+epoch 2
+cost : 0.0445680739358
+error_rate : 0.5
+
+epoch 3
+cost : 0.0222581289709
+error_rate : 0.5
+
+epoch 4
+cost : 0.0104539459571
+error_rate : 0.5
+
+epoch 5
+cost : 0.00475255586207
+error_rate : 0.5
+
+epoch 6
+cost : 0.00216947149602
+error_rate : 0.5
+
+epoch 7
+cost : 0.000984053869615
+error_rate : 0.5
+
+epoch 8
+cost : 0.000440208728833
+error_rate : 0.5
+
+epoch 9
+cost : 0.000200701966605
+error_rate : 0.5
+
+epoch 10
+cost : 9.69691350292e-05
+error_rate : 0.5
+
+epoch 11
+cost : 4.55996073612e-05
+error_rate : 0.5
+
+epoch 12
+cost : 2.35981806611e-05
+error_rate : 0.5
+
+epoch 13
+cost : 1.5029096005e-05
+error_rate : 0.5
+
+epoch 14
+cost : 1.02218739073e-05
+error_rate : 0.5
+
+epoch 15
+cost : 1.10682771819e-05
+error_rate : 0.5
+
+epoch 16
+cost : 1.0441960266e-05
+error_rate : 0.5
+
+epoch 17
+cost : 1.11348275471e-05
+error_rate : 0.5
+
+epoch 18
+cost : 1.23517231616e-05
+error_rate : 0.5
+
+epoch 19
+cost : 1.12552346749e-05
+error_rate : 0.5
+
+epoch 20
+cost : 1.08175082687e-05
+error_rate : 0.5
+
+epoch 21
+cost : 1.45304513524e-05
+error_rate : 0.5
+
+epoch 22
+cost : 1.63114614367e-05
+error_rate : 0.5
+
+epoch 23
+cost : 1.64604531392e-05
+error_rate : 0.5
+
+epoch 24
+cost : 1.75302156435e-05
+error_rate : 0.5
+
+epoch 25
+cost : 1.84503921901e-05
+error_rate : 0.5
+
+epoch 26
+cost : 1.78455564424e-05
+error_rate : 0.5
+
+epoch 27
+cost : 1.86361754828e-05
+error_rate : 0.5
+
+epoch 28
+cost : 1.9728050674e-05
+error_rate : 0.5
+
+epoch 29
+cost : 1.84089421591e-05
+error_rate : 0.5
+
+epoch 30
+cost : 2.04256465679e-05
+error_rate : 0.75
+
+epoch 31
+cost : 2.00313424933e-05
+error_rate : 0.5
+
+epoch 32
+cost : 1.78259604304e-05
+error_rate : 0.5
+
+epoch 33
+cost : 2.22147095279e-05
+error_rate : 0.5
+
+epoch 34
+cost : 2.16468342629e-05
+error_rate : 0.5
+
+epoch 35
+cost : 2.15385482605e-05
+error_rate : 0.5
+
+epoch 36
+cost : 2.07143603177e-05
+error_rate : 0.5
+
+epoch 37
+cost : 2.48426121345e-05
+error_rate : 0.25
+
+epoch 38
+cost : 2.47290537629e-05
+error_rate : 0.5
+
+epoch 39
+cost : 2.52255567972e-05
+error_rate : 0.5
+
+epoch 40
+cost : 2.55192875872e-05
+error_rate : 0.5
+
+epoch 41
+cost : 2.62745471673e-05
+error_rate : 0.5
+
+epoch 42
+cost : 2.53491156812e-05
+error_rate : 0.75
+
+epoch 43
+cost : 2.84409542815e-05
+error_rate : 0.5
+
+epoch 44
+cost : 2.69330313643e-05
+error_rate : 0.5
+
+epoch 45
+cost : 2.94185188352e-05
+error_rate : 0.5
+
+epoch 46
+cost : 3.03692136754e-05
+error_rate : 0.5
+
+epoch 47
+cost : 2.97005900398e-05
+error_rate : 0.5
+
+epoch 48
+cost : 2.83213123797e-05
+error_rate : 0.5
+
+epoch 49
+cost : 3.09407199666e-05
+error_rate : 0.5
+
+epoch 50
+cost : 3.20522379411e-05
+error_rate : 0.5
+
+epoch 51
+cost : 3.27484946041e-05
+error_rate : 0.5
+
+epoch 52
+cost : 3.22540382358e-05
+error_rate : 0.5
+
+epoch 53
+cost : 3.26980462262e-05
+error_rate : 0.5
+
+epoch 54
+cost : 3.02632568889e-05
+error_rate : 0.5
+
+epoch 55
+cost : 3.5033868528e-05
+error_rate : 0.5
+
+epoch 56
+cost : 3.55926894571e-05
+error_rate : 0.5
+
+epoch 57
+cost : 3.74185028136e-05
+error_rate : 0.5
+
+epoch 58
+cost : 3.5322137677e-05
+error_rate : 0.25
+
+epoch 59
+cost : 3.75623247635e-05
+error_rate : 0.5
+
+epoch 60
+cost : 3.62765774469e-05
+error_rate : 0.75
+
+epoch 61
+cost : 3.75434295563e-05
+error_rate : 0.75
+
+epoch 62
+cost : 3.74214149286e-05
+error_rate : 0.75
+
+epoch 63
+cost : 3.66142559329e-05
+error_rate : 0.25
+
+epoch 64
+cost : 3.82471008038e-05
+error_rate : 0.5
+
+epoch 65
+cost : 3.83340423582e-05
+error_rate : 0.5
+
+epoch 66
+cost : 3.94946942208e-05
+error_rate : 0.75
+
+epoch 67
+cost : 4.06611604831e-05
+error_rate : 0.75
+
+epoch 68
+cost : 4.13968502926e-05
+error_rate : 0.5
+
+epoch 69
+cost : 4.19507294112e-05
+error_rate : 0.5
+
+epoch 70
+cost : 4.31085901482e-05
+error_rate : 0.5
+
+epoch 71
+cost : 4.14360900436e-05
+error_rate : 0.5
+
+epoch 72
+cost : 4.36107986985e-05
+error_rate : 0.5
+
+epoch 73
+cost : 4.28640510677e-05
+error_rate : 0.5
+
+epoch 74
+cost : 4.32164408153e-05
+error_rate : 0.5
+
+epoch 75
+cost : 4.34959799875e-05
+error_rate : 0.5
+
+epoch 76
+cost : 4.32897691098e-05
+error_rate : 0.25
+
+epoch 77
+cost : 4.4964922381e-05
+error_rate : 0.25
+
+epoch 78
+cost : 4.46339521147e-05
+error_rate : 0.5
+
+epoch 79
+cost : 4.42975699251e-05
+error_rate : 0.5
+
+epoch 80
+cost : 4.56449816681e-05
+error_rate : 0.5
+
+epoch 81
+cost : 4.54706708941e-05
+error_rate : 0.25
+
+epoch 82
+cost : 4.6827388644e-05
+error_rate : 0.25
+
+epoch 83
+cost : 4.62520244611e-05
+error_rate : 0.75
+
+epoch 84
+cost : 4.75846918562e-05
+error_rate : 0.75
+
+epoch 85
+cost : 4.583414173e-05
+error_rate : 0.5
+
+epoch 86
+cost : 4.84312681124e-05
+error_rate : 0.5
+
+epoch 87
+cost : 4.70149558041e-05
+error_rate : 0.5
+
+epoch 88
+cost : 4.71407205964e-05
+error_rate : 0.5
+
+epoch 89
+cost : 4.74350358139e-05
+error_rate : 0.5
+
+epoch 90
+cost : 4.97921313354e-05
+error_rate : 0.5
+
+epoch 91
+cost : 4.89614849926e-05
+error_rate : 0.5
+
+epoch 92
+cost : 4.90185854858e-05
+error_rate : 0.75
+
+epoch 93
+cost : 4.86039453911e-05
+error_rate : 0.5
+
+epoch 94
+cost : 4.96020259675e-05
+error_rate : 0.5
+
+epoch 95
+cost : 4.85963977823e-05
+error_rate : 0.75
+
+epoch 96
+cost : 4.92667995289e-05
+error_rate : 0.5
+
+epoch 97
+cost : 5.04472985767e-05
+error_rate : 0.5
+
+epoch 98
+cost : 4.88846550297e-05
+error_rate : 0.5
+
+epoch 99
+cost : 4.95952182966e-05
+error_rate : 0.75
+
+epoch 100
+cost : 4.97743697281e-05
+error_rate : 0.75
+
+epoch 101
+cost : 5.02277047616e-05
+error_rate : 0.5
+
+epoch 102
+cost : 5.09719739341e-05
+error_rate : 0.5
+
+epoch 103
+cost : 5.17129412572e-05
+error_rate : 0.5
+
+epoch 104
+cost : 5.23701580164e-05
+error_rate : 0.5
+
+epoch 105
+cost : 5.21052220392e-05
+error_rate : 0.5
+
+epoch 106
+cost : 5.22953145037e-05
+error_rate : 0.5
+
+epoch 107
+cost : 5.30915303898e-05
+error_rate : 0.5
+
+epoch 108
+cost : 4.9973702005e-05
+error_rate : 0.75
+
+epoch 109
+cost : 5.36866564289e-05
+error_rate : 0.5
+
+epoch 110
+cost : 5.3693782661e-05
+error_rate : 0.5
+
+epoch 111
+cost : 5.07541397212e-05
+error_rate : 0.75
+
+epoch 112
+cost : 5.38714534031e-05
+error_rate : 0.5
+
+epoch 113
+cost : 5.47068812011e-05
+error_rate : 0.75
+
+epoch 114
+cost : 5.30472173068e-05
+error_rate : 0.5
+
+epoch 115
+cost : 5.42725904324e-05
+error_rate : 0.75
+
+epoch 116
+cost : 5.50971639939e-05
+error_rate : 0.5
+
+epoch 117
+cost : 5.45949870911e-05
+error_rate : 0.5
+
+epoch 118
+cost : 5.64174733881e-05
+error_rate : 0.5
+
+epoch 119
+cost : 5.53905414336e-05
+error_rate : 0.5
+
+epoch 120
+cost : 5.61126981324e-05
+error_rate : 0.5
+
+epoch 121
+cost : 5.56322848979e-05
+error_rate : 0.5
+
+epoch 122
+cost : 5.71774966716e-05
+error_rate : 0.5
+
+epoch 123
+cost : 5.55279656282e-05
+error_rate : 0.5
+
+epoch 124
+cost : 5.66227111563e-05
+error_rate : 0.25
+
+epoch 125
+cost : 5.56503207463e-05
+error_rate : 0.25
+
+epoch 126
+cost : 5.63850413755e-05
+error_rate : 0.75
+
+epoch 127
+cost : 5.57866329487e-05
+error_rate : 0.5
+
+epoch 128
+cost : 5.66992485176e-05
+error_rate : 0.75
+
+epoch 129
+cost : 5.51583349306e-05
+error_rate : 0.5
+
+epoch 130
+cost : 5.63728014242e-05
+error_rate : 0.5
+
+epoch 131
+cost : 5.71966110385e-05
+error_rate : 0.5
+
+epoch 132
+cost : 5.63031676357e-05
+error_rate : 0.5
+
+epoch 133
+cost : 5.8556847506e-05
+error_rate : 0.75
+
+epoch 134
+cost : 5.7398587586e-05
+error_rate : 0.5
+
+epoch 135
+cost : 5.86297350367e-05
+error_rate : 0.75
+
+epoch 136
+cost : 5.70496084151e-05
+error_rate : 0.75
+
+epoch 137
+cost : 5.84524306504e-05
+error_rate : 0.25
+
+epoch 138
+cost : 5.53736235531e-05
+error_rate : 0.5
+
+epoch 139
+cost : 5.72591014389e-05
+error_rate : 0.5
+
+epoch 140
+cost : 5.68592151566e-05
+error_rate : 0.25
+
+epoch 141
+cost : 5.5275073791e-05
+error_rate : 0.5
+
+epoch 142
+cost : 5.68058538933e-05
+error_rate : 0.75
+
+epoch 143
+cost : 5.67261234607e-05
+error_rate : 0.75
+
+epoch 144
+cost : 5.67815419146e-05
+error_rate : 0.25
+
+epoch 145
+cost : 5.72671825978e-05
+error_rate : 0.5
+
+epoch 146
+cost : 5.7703981355e-05
+error_rate : 0.5
+
+epoch 147
+cost : 5.79209959142e-05
+error_rate : 0.5
+
+epoch 148
+cost : 5.87418706459e-05
+error_rate : 0.5
+
+epoch 149
+cost : 5.48067864941e-05
+error_rate : 0.25
+
+epoch 150
+cost : 5.80446337608e-05
+error_rate : 0.25
+
+epoch 151
+cost : 5.85105399864e-05
+error_rate : 0.25
+
+epoch 152
+cost : 5.91045590852e-05
+error_rate : 0.25
+
+epoch 153
+cost : 5.91445935925e-05
+error_rate : 0.5
+
+epoch 154
+cost : 5.98020017151e-05
+error_rate : 0.5
+
+epoch 155
+cost : 5.94359988497e-05
+error_rate : 0.5
+
+epoch 156
+cost : 5.86014526505e-05
+error_rate : 0.5
+
+epoch 157
+cost : 5.82299546465e-05
+error_rate : 0.25
+
+epoch 158
+cost : 5.99639686811e-05
+error_rate : 0.5
+
+epoch 159
+cost : 5.96861776785e-05
+error_rate : 0.25
+
+epoch 160
+cost : 5.85555945918e-05
+error_rate : 0.25
+
+epoch 161
+cost : 6.02064621944e-05
+error_rate : 0.25
+
+epoch 162
+cost : 5.8961917226e-05
+error_rate : 0.25
+
+epoch 163
+cost : 6.03748078447e-05
+error_rate : 0.25
+
+epoch 164
+cost : 5.92545081872e-05
+error_rate : 0.25
+
+epoch 165
+cost : 5.85259507346e-05
+error_rate : 0.25
+
+epoch 166
+cost : 5.82041660664e-05
+error_rate : 0.75
+
+epoch 167
+cost : 5.78805411351e-05
+error_rate : 0.5
+
+epoch 168
+cost : 6.03219840514e-05
+error_rate : 0.75
+
+epoch 169
+cost : 5.87499590949e-05
+error_rate : 0.25
+
+epoch 170
+cost : 5.69374858514e-05
+error_rate : 0.75
+
+epoch 171
+cost : 5.87971678669e-05
+error_rate : 0.75
+
+epoch 172
+cost : 5.70999067691e-05
+error_rate : 0.5
+
+epoch 173
+cost : 6.03166010933e-05
+error_rate : 0.75
+
+epoch 174
+cost : 5.74108670435e-05
+error_rate : 0.5
+
+epoch 175
+cost : 6.12519970673e-05
+error_rate : 0.75
+
+epoch 176
+cost : 5.92903235486e-05
+error_rate : 0.75
+
+epoch 177
+cost : 5.91694680452e-05
+error_rate : 0.75
+
+epoch 178
+cost : 5.98372458853e-05
+error_rate : 0.25
+
+epoch 179
+cost : 6.02550494477e-05
+error_rate : 0.25
+
+epoch 180
+cost : 5.74646497853e-05
+error_rate : 0.25
+
+epoch 181
+cost : 6.16253453245e-05
+error_rate : 0.25
+
+epoch 182
+cost : 5.87515771144e-05
+error_rate : 0.75
+
+epoch 183
+cost : 5.84826085515e-05
+error_rate : 0.5
+
+epoch 184
+cost : 5.86663757502e-05
+error_rate : 0.5
+
+epoch 185
+cost : 5.83556011904e-05
+error_rate : 0.5
+
+epoch 186
+cost : 5.82724887792e-05
+error_rate : 0.75
+
+epoch 187
+cost : 5.85095952914e-05
+error_rate : 0.5
+
+epoch 188
+cost : 5.8969429702e-05
+error_rate : 0.75
+
+epoch 189
+cost : 5.93079422515e-05
+error_rate : 0.75
+
+epoch 190
+cost : 5.84403310313e-05
+error_rate : 0.75
+
+epoch 191
+cost : 6.09297756e-05
+error_rate : 0.75
+
+epoch 192
+cost : 5.90394298854e-05
+error_rate : 0.75
+
+epoch 193
+cost : 5.77391236902e-05
+error_rate : 0.5
+
+epoch 194
+cost : 5.75578615276e-05
+error_rate : 0.75
+
+epoch 195
+cost : 5.82543840366e-05
+error_rate : 0.75
+
+epoch 196
+cost : 5.84835003679e-05
+error_rate : 0.75
+
+epoch 197
+cost : 5.82773645021e-05
+error_rate : 0.25
+
+epoch 198
+cost : 5.93854433362e-05
+error_rate : 0.25
+
+epoch 199
+cost : 5.70226900152e-05
+error_rate : 0.25
+
+epoch 200
+cost : 5.9248749892e-05
+error_rate : 0.25
+
+epoch 201
+cost : 5.76324698898e-05
+error_rate : 0.25
+
+epoch 202
+cost : 5.81293579671e-05
+error_rate : 0.25
+
+epoch 203
+cost : 5.88643035826e-05
+error_rate : 0.25
+
+epoch 204
+cost : 5.675198571e-05
+error_rate : 0.25
+
+epoch 205
+cost : 5.67196595398e-05
+error_rate : 0.75
+
+epoch 206
+cost : 5.67502166859e-05
+error_rate : 0.75
+
+epoch 207
+cost : 5.82600667087e-05
+error_rate : 0.75
+
+epoch 208
+cost : 5.73726244397e-05
+error_rate : 0.75
+
+epoch 209
+cost : 5.71427882079e-05
+error_rate : 0.25
+
+epoch 210
+cost : 5.56288318307e-05
+error_rate : 0.75
+
+epoch 211
+cost : 5.62892781204e-05
+error_rate : 0.75
+
+epoch 212
+cost : 5.70200202219e-05
+error_rate : 0.75
+
+epoch 213
+cost : 5.96614805772e-05
+error_rate : 0.75
+
+epoch 214
+cost : 5.77389497494e-05
+error_rate : 0.75
+
+epoch 215
+cost : 5.65222991327e-05
+error_rate : 0.75
+
+epoch 216
+cost : 5.72883621146e-05
+error_rate : 0.75
+
+epoch 217
+cost : 5.76632686773e-05
+error_rate : 0.75
+
+epoch 218
+cost : 5.63388755381e-05
+error_rate : 0.75
+
+epoch 219
+cost : 5.87851634464e-05
+error_rate : 0.75
+
+epoch 220
+cost : 5.72226903159e-05
+error_rate : 0.75
+
+epoch 221
+cost : 5.61645142056e-05
+error_rate : 0.5
+
+epoch 222
+cost : 5.69545985059e-05
+error_rate : 0.75
+
+epoch 223
+cost : 5.92926799072e-05
+error_rate : 0.75
+
+epoch 224
+cost : 5.72547068032e-05
+error_rate : 0.75
+
+epoch 225
+cost : 5.75652371708e-05
+error_rate : 0.25
+
+epoch 226
+cost : 5.72975523028e-05
+error_rate : 0.25
+
+epoch 227
+cost : 5.72237779579e-05
+error_rate : 0.75
+
+epoch 228
+cost : 5.57214729895e-05
+error_rate : 0.75
+
+epoch 229
+cost : 5.62214207775e-05
+error_rate : 0.25
+
+epoch 230
+cost : 5.68760854662e-05
+error_rate : 0.25
+
+epoch 231
+cost : 5.74820211341e-05
+error_rate : 0.25
+
+epoch 232
+cost : 5.74619631379e-05
+error_rate : 0.25
+
+epoch 233
+cost : 5.53002651031e-05
+error_rate : 0.75
+
+epoch 234
+cost : 5.4948077775e-05
+error_rate : 0.75
+
+epoch 235
+cost : 5.48809738063e-05
+error_rate : 0.75
+
+epoch 236
+cost : 5.54812504561e-05
+error_rate : 0.75
+
+epoch 237
+cost : 5.74391597183e-05
+error_rate : 0.25
+
+epoch 238
+cost : 5.49924034203e-05
+error_rate : 0.75
+
+epoch 239
+cost : 5.60550015507e-05
+error_rate : 0.25
+
+epoch 240
+cost : 5.34345351753e-05
+error_rate : 0.75
+
+epoch 241
+cost : 5.52729997025e-05
+error_rate : 0.75
+
+epoch 242
+cost : 5.5015748103e-05
+error_rate : 0.75
+
+epoch 243
+cost : 5.48108234284e-05
+error_rate : 0.75
+
+epoch 244
+cost : 5.52036314048e-05
+error_rate : 0.75
+
+epoch 245
+cost : 5.27950504647e-05
+error_rate : 0.75
+
+epoch 246
+cost : 5.41075479532e-05
+error_rate : 0.75
+
+epoch 247
+cost : 5.43984571095e-05
+error_rate : 0.75
+
+epoch 248
+cost : 5.4357592262e-05
+error_rate : 0.25
+
+epoch 249
+cost : 5.35331686251e-05
+error_rate : 0.75
+
+epoch 250
+cost : 5.49514130626e-05
+error_rate : 0.75
+
+epoch 251
+cost : 5.26533527818e-05
+error_rate : 0.25
+
+epoch 252
+cost : 5.25796195348e-05
+error_rate : 0.25
+
+epoch 253
+cost : 5.39191141797e-05
+error_rate : 0.25
+
+epoch 254
+cost : 5.21198624028e-05
+error_rate : 0.25
+
+epoch 255
+cost : 5.27157933448e-05
+error_rate : 0.75
+
+epoch 256
+cost : 5.17635096458e-05
+error_rate : 0.25
+
+epoch 257
+cost : 5.22921967558e-05
+error_rate : 0.25
+
+epoch 258
+cost : 5.13037439873e-05
+error_rate : 0.25
+
+epoch 259
+cost : 5.10376640932e-05
+error_rate : 0.25
+
+epoch 260
+cost : 5.2807612974e-05
+error_rate : 0.75
+
+epoch 261
+cost : 5.2004238114e-05
+error_rate : 0.75
+
+epoch 262
+cost : 5.22980619735e-05
+error_rate : 0.75
+
+epoch 263
+cost : 5.02789067696e-05
+error_rate : 0.75
+
+epoch 264
+cost : 5.01047886701e-05
+error_rate : 0.25
+
+epoch 265
+cost : 5.01020745673e-05
+error_rate : 0.25
+
+epoch 266
+cost : 4.90844374781e-05
+error_rate : 0.75
+
+epoch 267
+cost : 5.04085819557e-05
+error_rate : 0.25
+
+epoch 268
+cost : 5.11846699283e-05
+error_rate : 0.75
+
+epoch 269
+cost : 4.94377192695e-05
+error_rate : 0.25
+
+epoch 270
+cost : 4.89443278866e-05
+error_rate : 0.25
+
+epoch 271
+cost : 5.06339606545e-05
+error_rate : 0.25
+
+epoch 272
+cost : 4.84402521579e-05
+error_rate : 0.25
+
+epoch 273
+cost : 4.97936517831e-05
+error_rate : 0.25
+
+epoch 274
+cost : 4.77406434811e-05
+error_rate : 0.25
+
+epoch 275
+cost : 4.74632555552e-05
+error_rate : 0.25
+
+epoch 276
+cost : 4.95516948149e-05
+error_rate : 0.25
+
+epoch 277
+cost : 4.70603525855e-05
+error_rate : 0.25
+
+epoch 278
+cost : 4.61591114345e-05
+error_rate : 0.25
+
+epoch 279
+cost : 4.67681899181e-05
+error_rate : 0.25
+
+epoch 280
+cost : 4.55625122413e-05
+error_rate : 0.25
+
+epoch 281
+cost : 4.78893341551e-05
+error_rate : 0.25
+
+epoch 282
+cost : 4.55633281717e-05
+error_rate : 0.25
+
+epoch 283
+cost : 4.51963099977e-05
+error_rate : 0.25
+
+epoch 284
+cost : 4.37302562659e-05
+error_rate : 0.25
+
+epoch 285
+cost : 4.59805926312e-05
+error_rate : 0.25
+
+epoch 286
+cost : 4.51891198736e-05
+error_rate : 0.25
+
+epoch 287
+cost : 4.07083243772e-05
+error_rate : 0.25
+
+epoch 288
+cost : 4.09666944279e-05
+error_rate : 0.25
+
+epoch 289
+cost : 4.33206007528e-05
+error_rate : 0.25
+
+epoch 290
+cost : 4.400015996e-05
+error_rate : 0.25
+
+epoch 291
+cost : 4.16353544779e-05
+error_rate : 0.25
+
+epoch 292
+cost : 4.0175058075e-05
+error_rate : 0.25
+
+epoch 293
+cost : 4.0899262558e-05
+error_rate : 0.25
+
+epoch 294
+cost : 3.98935279691e-05
+error_rate : 0.25
+
+epoch 295
+cost : 4.12332370843e-05
+error_rate : 0.25
+
+epoch 296
+cost : 3.7826346329e-05
+error_rate : 0.25
+
+epoch 297
+cost : 3.90625366435e-05
+error_rate : 0.25
+
+epoch 298
+cost : 3.68063965652e-05
+error_rate : 0.25
+
+epoch 299
+cost : 3.68423600321e-05
+error_rate : 0.25
+
+epoch 300
+cost : 3.55891892241e-05
+error_rate : 0.25
+
+epoch 301
+cost : 3.49696788362e-05
+error_rate : 0.25
+
+epoch 302
+cost : 3.23970989484e-05
+error_rate : 0.25
+
+epoch 303
+cost : 3.55887890464e-05
+error_rate : 0.25
+
+epoch 304
+cost : 3.49938914042e-05
+error_rate : 0.25
+
+epoch 305
+cost : 3.43674577152e-05
+error_rate : 0.25
+
+epoch 306
+cost : 3.35952357773e-05
+error_rate : 0.25
+
+epoch 307
+cost : 3.41877602068e-05
+error_rate : 0.25
+
+epoch 308
+cost : 3.32111911803e-05
+error_rate : 0.25
+
+epoch 309
+cost : 3.23148316284e-05
+error_rate : 0.25
+
+epoch 310
+cost : 2.85812731136e-05
+error_rate : 0.25
+
+epoch 311
+cost : 3.10678261712e-05
+error_rate : 0.25
+
+epoch 312
+cost : 2.867873593e-05
+error_rate : 0.25
+
+epoch 313
+cost : 2.57432075159e-05
+error_rate : 0.25
+
+epoch 314
+cost : 2.72452526815e-05
+error_rate : 0.25
+
+epoch 315
+cost : 2.69098470653e-05
+error_rate : 0.25
+
+epoch 316
+cost : 2.79598579027e-05
+error_rate : 0.25
+
+epoch 317
+cost : 2.71947171768e-05
+error_rate : 0.25
+
+epoch 318
+cost : 2.64536065515e-05
+error_rate : 0.25
+
+epoch 319
+cost : 2.57331207649e-05
+error_rate : 0.25
+
+epoch 320
+cost : 2.50380830948e-05
+error_rate : 0.25
+
+epoch 321
+cost : 2.19101739276e-05
+error_rate : 0.25
+
+epoch 322
+cost : 2.32460193956e-05
+error_rate : 0.25
+
+epoch 323
+cost : 2.10677792438e-05
+error_rate : 0.25
+
+epoch 324
+cost : 2.1916280275e-05
+error_rate : 0.25
+
+epoch 325
+cost : 2.00205666943e-05
+error_rate : 0.25
+
+epoch 326
+cost : 1.97014179548e-05
+error_rate : 0.25
+
+epoch 327
+cost : 2.09668544358e-05
+error_rate : 0.25
+
+epoch 328
+cost : 2.0673077529e-05
+error_rate : 0.25
+
+epoch 329
+cost : 1.85116081184e-05
+error_rate : 0.25
+
+epoch 330
+cost : 1.88950679103e-05
+error_rate : 0.25
+
+epoch 331
+cost : 1.79273871481e-05
+error_rate : 0.25
+
+epoch 332
+cost : 1.81644956001e-05
+error_rate : 0.25
+
+epoch 333
+cost : 1.84559854688e-05
+error_rate : 0.25
+
+epoch 334
+cost : 1.81810143545e-05
+error_rate : 0.25
+
+epoch 335
+cost : 1.66848220715e-05
+error_rate : 0.25
+
+epoch 336
+cost : 1.78878568136e-05
+error_rate : 0.25
+
+epoch 337
+cost : 1.76754838321e-05
+error_rate : 0.25
+
+epoch 338
+cost : 1.58105913783e-05
+error_rate : 0.25
+
+epoch 339
+cost : 1.6396655667e-05
+error_rate : 0.25
+
+epoch 340
+cost : 1.37478640454e-05
+error_rate : 0.25
+
+epoch 341
+cost : 1.50627451205e-05
+error_rate : 0.25
+
+epoch 342
+cost : 1.45791555042e-05
+error_rate : 0.25
+
+epoch 343
+cost : 1.31697957499e-05
+error_rate : 0.25
+
+epoch 344
+cost : 1.44546954459e-05
+error_rate : 0.25
+
+epoch 345
+cost : 1.38004081975e-05
+error_rate : 0.25
+
+epoch 346
+cost : 1.43027510831e-05
+error_rate : 0.25
+
+epoch 347
+cost : 1.39634228162e-05
+error_rate : 0.25
+
+epoch 348
+cost : 1.30597373698e-05
+error_rate : 0.25
+
+epoch 349
+cost : 1.28263792192e-05
+error_rate : 0.25
+
+epoch 350
+cost : 1.28940943966e-05
+error_rate : 0.25
+
+epoch 351
+cost : 1.32075352326e-05
+error_rate : 0.25
+
+epoch 352
+cost : 1.26373309968e-05
+error_rate : 0.25
+
+epoch 353
+cost : 1.17217296065e-05
+error_rate : 0.25
+
+epoch 354
+cost : 1.15165855448e-05
+error_rate : 0.25
+
+epoch 355
+cost : 1.27495276558e-05
+error_rate : 0.25
+
+epoch 356
+cost : 1.28111634012e-05
+error_rate : 0.25
+
+epoch 357
+cost : 1.0699534883e-05
+error_rate : 0.25
+
+epoch 358
+cost : 1.11638278071e-05
+error_rate : 0.25
+
+epoch 359
+cost : 1.01920127946e-05
+error_rate : 0.25
+
+epoch 360
+cost : 1.1317852838e-05
+error_rate : 0.25
+
+epoch 361
+cost : 1.24575063012e-05
+error_rate : 0.25
+
+epoch 362
+cost : 1.15668760259e-05
+error_rate : 0.25
+
+epoch 363
+cost : 1.08701523942e-05
+error_rate : 0.25
+
+epoch 364
+cost : 8.99614857985e-06
+error_rate : 0.25
+
+epoch 365
+cost : 1.0903262762e-05
+error_rate : 0.25
+
+epoch 366
+cost : 9.8542771596e-06
+error_rate : 0.25
+
+epoch 367
+cost : 1.08101157252e-05
+error_rate : 0.25
+
+epoch 368
+cost : 1.05393769445e-05
+error_rate : 0.25
+
+epoch 369
+cost : 9.43597653702e-06
+error_rate : 0.25
+
+epoch 370
+cost : 1.03351222123e-05
+error_rate : 0.25
+
+epoch 371
+cost : 1.06445441475e-05
+error_rate : 0.25
+
+epoch 372
+cost : 9.42497282352e-06
+error_rate : 0.25
+
+epoch 373
+cost : 9.4753868467e-06
+error_rate : 0.25
+
+epoch 374
+cost : 8.73539412893e-06
+error_rate : 0.25
+
+epoch 375
+cost : 1.10951387171e-05
+error_rate : 0.25
+
+epoch 376
+cost : 1.04893086501e-05
+error_rate : 0.25
+
+epoch 377
+cost : 1.07031772103e-05
+error_rate : 0.25
+
+epoch 378
+cost : 9.50343294193e-06
+error_rate : 0.25
+
+epoch 379
+cost : 9.51954392292e-06
+error_rate : 0.25
+
+epoch 380
+cost : 9.57053076789e-06
+error_rate : 0.25
+
+epoch 381
+cost : 9.35611078035e-06
+error_rate : 0.25
+
+epoch 382
+cost : 9.41931362064e-06
+error_rate : 0.25
+
+epoch 383
+cost : 1.16624673723e-05
+error_rate : 0.25
+
+epoch 384
+cost : 9.02265400526e-06
+error_rate : 0.25
+
+epoch 385
+cost : 1.07012952952e-05
+error_rate : 0.25
+
+epoch 386
+cost : 8.51633881815e-06
+error_rate : 0.25
+
+epoch 387
+cost : 1.01991766428e-05
+error_rate : 0.25
+
+epoch 388
+cost : 1.11856686615e-05
+error_rate : 0.25
+
+epoch 389
+cost : 1.07931807278e-05
+error_rate : 0.25
+
+epoch 390
+cost : 8.28847132972e-06
+error_rate : 0.25
+
+epoch 391
+cost : 9.25691329456e-06
+error_rate : 0.25
+
+epoch 392
+cost : 1.10611040256e-05
+error_rate : 0.25
+
+epoch 393
+cost : 1.05276584534e-05
+error_rate : 0.25
+
+epoch 394
+cost : 8.45291363394e-06
+error_rate : 0.25
+
+epoch 395
+cost : 9.88802880642e-06
+error_rate : 0.25
+
+epoch 396
+cost : 8.97076346895e-06
+error_rate : 0.25
+
+epoch 397
+cost : 1.15416846995e-05
+error_rate : 0.25
+
+epoch 398
+cost : 1.00245774242e-05
+error_rate : 0.25
+
+epoch 399
+cost : 1.10925951091e-05
+error_rate : 0.25
+
+epoch 400
+cost : 9.66019100579e-06
+error_rate : 0.25
+
+epoch 401
+cost : 1.02487024733e-05
+error_rate : 0.25
+
+epoch 402
+cost : 1.06374292201e-05
+error_rate : 0.25
+
+epoch 403
+cost : 9.15705030469e-06
+error_rate : 0.25
+
+epoch 404
+cost : 1.03600392372e-05
+error_rate : 0.25
+
+epoch 405
+cost : 1.01680120039e-05
+error_rate : 0.25
+
+epoch 406
+cost : 1.26698706637e-05
+error_rate : 0.25
+
+epoch 407
+cost : 1.1996421641e-05
+error_rate : 0.25
+
+epoch 408
+cost : 9.28503713626e-06
+error_rate : 0.25
+
+epoch 409
+cost : 1.07553734701e-05
+error_rate : 0.25
+
+epoch 410
+cost : 1.01999599167e-05
+error_rate : 0.25
+
+epoch 411
+cost : 1.11191264729e-05
+error_rate : 0.25
+
+epoch 412
+cost : 1.0779389322e-05
+error_rate : 0.25
+
+epoch 413
+cost : 1.30125534454e-05
+error_rate : 0.25
+
+epoch 414
+cost : 1.09542008317e-05
+error_rate : 0.25
+
+epoch 415
+cost : 1.09487546318e-05
+error_rate : 0.25
+
+epoch 416
+cost : 1.2881008665e-05
+error_rate : 0.25
+
+epoch 417
+cost : 1.24834615498e-05
+error_rate : 0.25
+
+epoch 418
+cost : 1.16741415876e-05
+error_rate : 0.25
+
+epoch 419
+cost : 1.03557806461e-05
+error_rate : 0.25
+
+epoch 420
+cost : 1.08581222475e-05
+error_rate : 0.25
+
+epoch 421
+cost : 1.22726570631e-05
+error_rate : 0.25
+
+epoch 422
+cost : 9.87876053204e-06
+error_rate : 0.25
+
+epoch 423
+cost : 1.31365307929e-05
+error_rate : 0.25
+
+epoch 424
+cost : 1.30779731196e-05
+error_rate : 0.25
+
+epoch 425
+cost : 1.14734962812e-05
+error_rate : 0.25
+
+epoch 426
+cost : 1.39559307115e-05
+error_rate : 0.25
+
+epoch 427
+cost : 1.18846800313e-05
+error_rate : 0.25
+
+epoch 428
+cost : 1.27964114949e-05
+error_rate : 0.25
+
+epoch 429
+cost : 1.20871760134e-05
+error_rate : 0.25
+
+epoch 430
+cost : 1.35663271088e-05
+error_rate : 0.25
+
+epoch 431
+cost : 1.55018638566e-05
+error_rate : 0.25
+
+epoch 432
+cost : 1.27863102597e-05
+error_rate : 0.25
+
+epoch 433
+cost : 1.56142971903e-05
+error_rate : 0.25
+
+epoch 434
+cost : 1.46945975246e-05
+error_rate : 0.25
+
+epoch 435
+cost : 1.33039093249e-05
+error_rate : 0.25
+
+epoch 436
+cost : 1.17130590365e-05
+error_rate : 0.25
+
+epoch 437
+cost : 1.23905083756e-05
+error_rate : 0.25
+
+epoch 438
+cost : 1.70022649399e-05
+error_rate : 0.25
+
+epoch 439
+cost : 1.47971751838e-05
+error_rate : 0.25
+
+epoch 440
+cost : 1.62533231851e-05
+error_rate : 0.25
+
+epoch 441
+cost : 1.58004053343e-05
+error_rate : 0.25
+
+epoch 442
+cost : 1.33795633062e-05
+error_rate : 0.25
+
+epoch 443
+cost : 1.6853525894e-05
+error_rate : 0.25
+
+epoch 444
+cost : 1.5136228885e-05
+error_rate : 0.25
+
+epoch 445
+cost : 1.71879626433e-05
+error_rate : 0.25
+
+epoch 446
+cost : 1.47270222772e-05
+error_rate : 0.25
+
+epoch 447
+cost : 1.50930487788e-05
+error_rate : 0.25
+
+epoch 448
+cost : 1.81280341076e-05
+error_rate : 0.25
+
+epoch 449
+cost : 1.80826531396e-05
+error_rate : 0.25
+
+epoch 450
+cost : 1.76912752869e-05
+error_rate : 0.25
+
+epoch 451
+cost : 1.52351090108e-05
+error_rate : 0.25
+
+epoch 452
+cost : 1.8929101774e-05
+error_rate : 0.25
+
+epoch 453
+cost : 1.68934106952e-05
+error_rate : 0.25
+
+epoch 454
+cost : 2.03243080357e-05
+error_rate : 0.25
+
+epoch 455
+cost : 2.08493638842e-05
+error_rate : 0.25
+
+epoch 456
+cost : 1.55729283478e-05
+error_rate : 0.25
+
+epoch 457
+cost : 1.77487299338e-05
+error_rate : 0.25
+
+epoch 458
+cost : 2.25728029761e-05
+error_rate : 0.25
+
+epoch 459
+cost : 1.99352110819e-05
+error_rate : 0.25
+
+epoch 460
+cost : 1.93023902071e-05
+error_rate : 0.25
+
+epoch 461
+cost : 2.22421699889e-05
+error_rate : 0.25
+
+epoch 462
+cost : 2.32932098671e-05
+error_rate : 0.25
+
+epoch 463
+cost : 2.26380550165e-05
+error_rate : 0.25
+
+epoch 464
+cost : 2.0615022005e-05
+error_rate : 0.25
+
+epoch 465
+cost : 2.02280307455e-05
+error_rate : 0.25
+
+epoch 466
+cost : 1.91380257561e-05
+error_rate : 0.25
+
+epoch 467
+cost : 2.77881105166e-05
+error_rate : 0.25
+
+epoch 468
+cost : 2.56181681574e-05
+error_rate : 0.25
+
+epoch 469
+cost : 2.67597589949e-05
+error_rate : 0.25
+
+epoch 470
+cost : 2.33451580093e-05
+error_rate : 0.25
+
+epoch 471
+cost : 2.55320072244e-05
+error_rate : 0.25
+
+epoch 472
+cost : 2.12307222682e-05
+error_rate : 0.25
+
+epoch 473
+cost : 3.01021319835e-05
+error_rate : 0.25
+
+epoch 474
+cost : 2.65056795872e-05
+error_rate : 0.25
+
+epoch 475
+cost : 3.1020235788e-05
+error_rate : 0.25
+
+epoch 476
+cost : 2.75969183576e-05
+error_rate : 0.25
+
+epoch 477
+cost : 2.59035454846e-05
+error_rate : 0.25
+
+epoch 478
+cost : 3.02508669709e-05
+error_rate : 0.25
+
+epoch 479
+cost : 3.15089659608e-05
+error_rate : 0.25
+
+epoch 480
+cost : 2.8096593657e-05
+error_rate : 0.25
+
+epoch 481
+cost : 3.78049792644e-05
+error_rate : 0.25
+
+epoch 482
+cost : 3.52741085351e-05
+error_rate : 0.25
+
+epoch 483
+cost : 2.81650802094e-05
+error_rate : 0.25
+
+epoch 484
+cost : 3.48789867672e-05
+error_rate : 0.25
+
+epoch 485
+cost : 3.64448383721e-05
+error_rate : 0.25
+
+epoch 486
+cost : 3.61355307099e-05
+error_rate : 0.25
+
+epoch 487
+cost : 3.67042731995e-05
+error_rate : 0.25
+
+epoch 488
+cost : 3.33984140468e-05
+error_rate : 0.25
+
+epoch 489
+cost : 4.46834299481e-05
+error_rate : 0.25
+
+epoch 490
+cost : 4.17536561266e-05
+error_rate : 0.25
+
+epoch 491
+cost : 4.26971187864e-05
+error_rate : 0.25
+
+epoch 492
+cost : 3.94797695465e-05
+error_rate : 0.25
+
+epoch 493
+cost : 4.63590545081e-05
+error_rate : 0.25
+
+epoch 494
+cost : 6.10146070272e-05
+error_rate : 0.25
+
+epoch 495
+cost : 5.1679225475e-05
+error_rate : 0.25
+
+epoch 496
+cost : 4.37158856244e-05
+error_rate : 0.25
+
+epoch 497
+cost : 4.28632586136e-05
+error_rate : 0.25
+
+epoch 498
+cost : 5.77532180458e-05
+error_rate : 0.25
+
+epoch 499
+cost : 5.9392582461e-05
+error_rate : 0.25
+
+epoch 500
+cost : 5.21101978634e-05
+error_rate : 0.25
+
+epoch 501
+cost : 5.15412912137e-05
+error_rate : 0.25
+
+epoch 502
+cost : 4.82440716496e-05
+error_rate : 0.25
+
+epoch 503
+cost : 5.33793567175e-05
+error_rate : 0.25
+
+epoch 504
+cost : 5.20960402355e-05
+error_rate : 0.25
+
+epoch 505
+cost : 6.94020647813e-05
+error_rate : 0.25
+
+epoch 506
+cost : 6.26393574805e-05
+error_rate : 0.25
+
+epoch 507
+cost : 7.13809179302e-05
+error_rate : 0.25
+
+epoch 508
+cost : 6.58686647483e-05
+error_rate : 0.25
+
+epoch 509
+cost : 6.32605786279e-05
+error_rate : 0.25
+
+epoch 510
+cost : 8.2563317406e-05
+error_rate : 0.25
+
+epoch 511
+cost : 7.87192481262e-05
+error_rate : 0.25
+
+epoch 512
+cost : 7.40927324046e-05
+error_rate : 0.25
+
+epoch 513
+cost : 8.12473856513e-05
+error_rate : 0.25
+
+epoch 514
+cost : 7.86560652273e-05
+error_rate : 0.25
+
+epoch 515
+cost : 0.000108256623918
+error_rate : 0.25
+
+epoch 516
+cost : 8.09970051705e-05
+error_rate : 0.25
+
+epoch 517
+cost : 7.98916448161e-05
+error_rate : 0.25
+
+epoch 518
+cost : 0.000102324505065
+error_rate : 0.25
+
+epoch 519
+cost : 9.71955708877e-05
+error_rate : 0.25
+
+epoch 520
+cost : 0.000111219240075
+error_rate : 0.25
+
+epoch 521
+cost : 0.000113568460591
+error_rate : 0.25
+
+epoch 522
+cost : 0.000105298460255
+error_rate : 0.25
+
+epoch 523
+cost : 0.000101369189508
+error_rate : 0.25
+
+epoch 524
+cost : 0.000101633938584
+error_rate : 0.25
+
+epoch 525
+cost : 0.000125142064509
+error_rate : 0.25
+
+epoch 526
+cost : 0.000135225508468
+error_rate : 0.25
+
+epoch 527
+cost : 0.000113607091976
+error_rate : 0.25
+
+epoch 528
+cost : 0.000119077663612
+error_rate : 0.25
+
+epoch 529
+cost : 0.000126393242681
+error_rate : 0.25
+
+epoch 530
+cost : 0.00011911811697
+error_rate : 0.25
+
+epoch 531
+cost : 0.000147919712864
+error_rate : 0.25
+
+epoch 532
+cost : 0.000162626018699
+error_rate : 0.25
+
+epoch 533
+cost : 0.000122857640235
+error_rate : 0.25
+
+epoch 534
+cost : 0.000148908497977
+error_rate : 0.25
+
+epoch 535
+cost : 0.000172408527732
+error_rate : 0.25
+
+epoch 536
+cost : 0.000168029931956
+error_rate : 0.25
+
+epoch 537
+cost : 0.000156292907832
+error_rate : 0.25
+
+epoch 538
+cost : 0.000164341592495
+error_rate : 0.25
+
+epoch 539
+cost : 0.000163892741966
+error_rate : 0.25
+
+epoch 540
+cost : 0.00017390204971
+error_rate : 0.25
+
+epoch 541
+cost : 0.000171863317519
+error_rate : 0.25
+
+epoch 542
+cost : 0.000176870759333
+error_rate : 0.25
+
+epoch 543
+cost : 0.000161085780746
+error_rate : 0.25
+
+epoch 544
+cost : 0.000208063220384
+error_rate : 0.25
+
+epoch 545
+cost : 0.000201807920348
+error_rate : 0.25
+
+epoch 546
+cost : 0.000194712026769
+error_rate : 0.25
+
+epoch 547
+cost : 0.000170962559423
+error_rate : 0.25
+
+epoch 548
+cost : 0.000184026499483
+error_rate : 0.25
+
+epoch 549
+cost : 0.000233571647698
+error_rate : 0.25
+
+epoch 550
+cost : 0.000247828741067
+error_rate : 0.25
+
+epoch 551
+cost : 0.00019995597404
+error_rate : 0.25
+
+epoch 552
+cost : 0.000227253877256
+error_rate : 0.25
+
+epoch 553
+cost : 0.000225539639359
+error_rate : 0.25
+
+epoch 554
+cost : 0.000218113083974
+error_rate : 0.25
+
+epoch 555
+cost : 0.000210961467019
+error_rate : 0.25
+
+epoch 556
+cost : 0.000241441546677
+error_rate : 0.25
+
+epoch 557
+cost : 0.000208703941098
+error_rate : 0.0
+
+epoch 558
+cost : 0.000272365012734
+error_rate : 0.0
+
+epoch 559
+cost : 0.000235146653722
+error_rate : 0.0
+
+epoch 560
+cost : 0.000239217482886
+error_rate : 0.0
+
+epoch 561
+cost : 0.00023908780895
+error_rate : 0.0
+
+epoch 562
+cost : 0.000258834627857
+error_rate : 0.0
+
+epoch 563
+cost : 0.000253735020578
+error_rate : 0.0
+
+epoch 564
+cost : 0.000250943279298
+error_rate : 0.0
+
+epoch 565
+cost : 0.00024930242671
+error_rate : 0.0
+
+epoch 566
+cost : 0.000242158316269
+error_rate : 0.0
+
+epoch 567
+cost : 0.000281348913177
+error_rate : 0.0
+
+epoch 568
+cost : 0.000249158377756
+error_rate : 0.0
+
+epoch 569
+cost : 0.000268067130492
+error_rate : 0.0
+
+epoch 570
+cost : 0.000241094865942
+error_rate : 0.0
+
+epoch 571
+cost : 0.000262080429138
+error_rate : 0.0
+
+epoch 572
+cost : 0.00025659674111
+error_rate : 0.0
+
+epoch 573
+cost : 0.000254087074836
+error_rate : 0.0
+
+epoch 574
+cost : 0.000263391666294
+error_rate : 0.0
+
+epoch 575
+cost : 0.000243708895141
+error_rate : 0.0
+
+epoch 576
+cost : 0.000250239295383
+error_rate : 0.0
+
+epoch 577
+cost : 0.000255552161207
+error_rate : 0.0
+
+epoch 578
+cost : 0.000257976012222
+error_rate : 0.0
+
+epoch 579
+cost : 0.000241571064748
+error_rate : 0.0
+
+epoch 580
+cost : 0.000249258407223
+error_rate : 0.0
+
+epoch 581
+cost : 0.000241082105504
+error_rate : 0.0
+
+epoch 582
+cost : 0.000232825236402
+error_rate : 0.0
+
+epoch 583
+cost : 0.000238992849106
+error_rate : 0.0
+
+epoch 584
+cost : 0.000229058391852
+error_rate : 0.0
+
+epoch 585
+cost : 0.000227264013589
+error_rate : 0.0
+
+epoch 586
+cost : 0.000230344500507
+error_rate : 0.0
+
+epoch 587
+cost : 0.000223951495478
+error_rate : 0.0
+
+epoch 588
+cost : 0.000223364148813
+error_rate : 0.0
+
+epoch 589
+cost : 0.000216975029325
+error_rate : 0.0
+
+epoch 590
+cost : 0.000214505926587
+error_rate : 0.0
+
+epoch 591
+cost : 0.000211757182509
+error_rate : 0.0
+
+epoch 592
+cost : 0.000207453434031
+error_rate : 0.0
+
+epoch 593
+cost : 0.000203402352739
+error_rate : 0.0
+
+epoch 594
+cost : 0.000198833073064
+error_rate : 0.0
+
+epoch 595
+cost : 0.00019064330894
+error_rate : 0.0
+
+epoch 596
+cost : 0.000191787120599
+error_rate : 0.0
+
+epoch 597
+cost : 0.000187367267245
+error_rate : 0.0
+
+epoch 598
+cost : 0.000183521793076
+error_rate : 0.0
+
+epoch 599
+cost : 0.000180252678973
+error_rate : 0.0
+
+epoch 600
+cost : 0.000175470106853
+error_rate : 0.0
+
+epoch 601
+cost : 0.00017128847287
+error_rate : 0.0
+
+epoch 602
+cost : 0.000167286416513
+error_rate : 0.0
+
+epoch 603
+cost : 0.000161849619644
+error_rate : 0.0
+
+epoch 604
+cost : 0.000161361926814
+error_rate : 0.0
+
+epoch 605
+cost : 0.000156547404458
+error_rate : 0.0
+
+epoch 606
+cost : 0.000151673617665
+error_rate : 0.0
+
+epoch 607
+cost : 0.000149051903236
+error_rate : 0.0
+
+epoch 608
+cost : 0.000147720729728
+error_rate : 0.0
+
+epoch 609
+cost : 0.000143162894574
+error_rate : 0.0
+
+epoch 610
+cost : 0.000139830194485
+error_rate : 0.0
+
+epoch 611
+cost : 0.000136396037306
+error_rate : 0.0
+
+epoch 612
+cost : 0.000133863951987
+error_rate : 0.0
+
+epoch 613
+cost : 0.000130536851429
+error_rate : 0.0
+
+epoch 614
+cost : 0.00012770837202
+error_rate : 0.0
+
+epoch 615
+cost : 0.000124550520468
+error_rate : 0.0
+
+epoch 616
+cost : 0.000122478264984
+error_rate : 0.0
+
+epoch 617
+cost : 0.000119344769473
+error_rate : 0.0
+
+epoch 618
+cost : 0.000116544081948
+error_rate : 0.0
+
+epoch 619
+cost : 0.000113026191912
+error_rate : 0.0
+
+epoch 620
+cost : 0.000111145042183
+error_rate : 0.0
+
+epoch 621
+cost : 0.000108142299496
+error_rate : 0.0
+
+epoch 622
+cost : 0.000105701453776
+error_rate : 0.0
+
+epoch 623
+cost : 0.000103308975667
+error_rate : 0.0
+
+epoch 624
+cost : 0.000101166668173
+error_rate : 0.0
+
+epoch 625
+cost : 9.81896041594e-05
+error_rate : 0.0
+
+epoch 626
+cost : 9.61601240306e-05
+error_rate : 0.0
+
+epoch 627
+cost : 9.3275900781e-05
+error_rate : 0.0
+
+epoch 628
+cost : 9.19736557989e-05
+error_rate : 0.0
+
+epoch 629
+cost : 8.94931858966e-05
+error_rate : 0.0
+
+epoch 630
+cost : 8.83503498699e-05
+error_rate : 0.0
+
+epoch 631
+cost : 8.58018934196e-05
+error_rate : 0.0
+
+epoch 632
+cost : 8.38630226099e-05
+error_rate : 0.0
+
+epoch 633
+cost : 8.20210339043e-05
+error_rate : 0.0
+
+epoch 634
+cost : 8.01798523753e-05
+error_rate : 0.0
+
+epoch 635
+cost : 7.85367483331e-05
+error_rate : 0.0
+
+epoch 636
+cost : 7.68741469983e-05
+error_rate : 0.0
+
+epoch 637
+cost : 7.5281673162e-05
+error_rate : 0.0
+
+epoch 638
+cost : 7.36383869935e-05
+error_rate : 0.0
+
+epoch 639
+cost : 7.22751790363e-05
+error_rate : 0.0
+
+epoch 640
+cost : 7.03477185198e-05
+error_rate : 0.0
+
+epoch 641
+cost : 6.91800573804e-05
+error_rate : 0.0
+
+epoch 642
+cost : 6.70789891046e-05
+error_rate : 0.0
+
+epoch 643
+cost : 6.60148016323e-05
+error_rate : 0.0
+
+epoch 644
+cost : 6.44261149318e-05
+error_rate : 0.0
+
+epoch 645
+cost : 6.34273569631e-05
+error_rate : 0.0
+
+epoch 646
+cost : 6.22133838988e-05
+error_rate : 0.0
+
+epoch 647
+cost : 6.08299628766e-05
+error_rate : 0.0
+
+epoch 648
+cost : 5.95100768805e-05
+error_rate : 0.0
+
+epoch 649
+cost : 5.83016435485e-05
+error_rate : 0.0
+
+epoch 650
+cost : 5.69913909203e-05
+error_rate : 0.0
+
+epoch 651
+cost : 5.59611903554e-05
+error_rate : 0.0
+
+epoch 652
+cost : 5.48453708689e-05
+error_rate : 0.0
+
+epoch 653
+cost : 5.37226846973e-05
+error_rate : 0.0
+
+epoch 654
+cost : 5.27949741809e-05
+error_rate : 0.0
+
+epoch 655
+cost : 5.13847990078e-05
+error_rate : 0.0
+
+epoch 656
+cost : 5.04245285811e-05
+error_rate : 0.0
+
+epoch 657
+cost : 4.97914793414e-05
+error_rate : 0.0
+
+epoch 658
+cost : 4.88619680254e-05
+error_rate : 0.0
+
+epoch 659
+cost : 4.77741971281e-05
+error_rate : 0.0
+
+epoch 660
+cost : 4.67828667752e-05
+error_rate : 0.0
+
+epoch 661
+cost : 4.57602045572e-05
+error_rate : 0.0
+
+epoch 662
+cost : 4.51009123026e-05
+error_rate : 0.0
+
+epoch 663
+cost : 4.4341026296e-05
+error_rate : 0.0
+
+epoch 664
+cost : 4.33901561792e-05
+error_rate : 0.0
+
+epoch 665
+cost : 4.25755470133e-05
+error_rate : 0.0
+
+epoch 666
+cost : 4.17994911004e-05
+error_rate : 0.0
+
+epoch 667
+cost : 4.10906586694e-05
+error_rate : 0.0
+
+epoch 668
+cost : 4.02812579523e-05
+error_rate : 0.0
+
+epoch 669
+cost : 3.96442205783e-05
+error_rate : 0.0
+
+epoch 670
+cost : 3.89050437661e-05
+error_rate : 0.0
+
+epoch 671
+cost : 3.81729132641e-05
+error_rate : 0.0
+
+epoch 672
+cost : 3.7431794226e-05
+error_rate : 0.0
+
+epoch 673
+cost : 3.67851448573e-05
+error_rate : 0.0
+
+epoch 674
+cost : 3.62459268217e-05
+error_rate : 0.0
+
+epoch 675
+cost : 3.54611615876e-05
+error_rate : 0.0
+
+epoch 676
+cost : 3.50088844243e-05
+error_rate : 0.0
+
+epoch 677
+cost : 3.43969395544e-05
+error_rate : 0.0
+
+epoch 678
+cost : 3.3740330764e-05
+error_rate : 0.0
+
+epoch 679
+cost : 3.32274657922e-05
+error_rate : 0.0
+
+epoch 680
+cost : 3.26481458615e-05
+error_rate : 0.0
+
+epoch 681
+cost : 3.20481910876e-05
+error_rate : 0.0
+
+epoch 682
+cost : 3.14606490974e-05
+error_rate : 0.0
+
+epoch 683
+cost : 3.10110619921e-05
+error_rate : 0.0
+
+epoch 684
+cost : 3.05511327952e-05
+error_rate : 0.0
+
+epoch 685
+cost : 3.00358092318e-05
+error_rate : 0.0
+
+epoch 686
+cost : 2.94236219816e-05
+error_rate : 0.0
+
+epoch 687
+cost : 2.90741531899e-05
+error_rate : 0.0
+
+epoch 688
+cost : 2.85892442662e-05
+error_rate : 0.0
+
+epoch 689
+cost : 2.81252705463e-05
+error_rate : 0.0
+
+epoch 690
+cost : 2.76755113191e-05
+error_rate : 0.0
+
+epoch 691
+cost : 2.71880153377e-05
+error_rate : 0.0
+
+epoch 692
+cost : 2.67784355401e-05
+error_rate : 0.0
+
+epoch 693
+cost : 2.6356135777e-05
+error_rate : 0.0
+
+epoch 694
+cost : 2.59679632109e-05
+error_rate : 0.0
+
+epoch 695
+cost : 2.55357747392e-05
+error_rate : 0.0
+
+epoch 696
+cost : 2.50996395152e-05
+error_rate : 0.0
+
+epoch 697
+cost : 2.47847528954e-05
+error_rate : 0.0
+
+epoch 698
+cost : 2.43574891101e-05
+error_rate : 0.0
+
+epoch 699
+cost : 2.39409969254e-05
+error_rate : 0.0
+
+epoch 700
+cost : 2.36626663082e-05
+error_rate : 0.0
+
+epoch 701
+cost : 2.32432030316e-05
+error_rate : 0.0
+
+epoch 702
+cost : 2.29194779422e-05
+error_rate : 0.0
+
+epoch 703
+cost : 2.25595988468e-05
+error_rate : 0.0
+
+epoch 704
+cost : 2.22241214942e-05
+error_rate : 0.0
+
+epoch 705
+cost : 2.18856662286e-05
+error_rate : 0.0
+
+epoch 706
+cost : 2.1605917027e-05
+error_rate : 0.0
+
+epoch 707
+cost : 2.12926418044e-05
+error_rate : 0.0
+
+epoch 708
+cost : 2.09555953461e-05
+error_rate : 0.0
+
+epoch 709
+cost : 2.06412041734e-05
+error_rate : 0.0
+
+epoch 710
+cost : 2.03823533411e-05
+error_rate : 0.0
+
+epoch 711
+cost : 2.0051304773e-05
+error_rate : 0.0
+
+epoch 712
+cost : 1.98403963623e-05
+error_rate : 0.0
+
+epoch 713
+cost : 1.95149659703e-05
+error_rate : 0.0
+
+epoch 714
+cost : 1.92077900465e-05
+error_rate : 0.0
+
+epoch 715
+cost : 1.89950637832e-05
+error_rate : 0.0
+
+epoch 716
+cost : 1.87223379271e-05
+error_rate : 0.0
+
+epoch 717
+cost : 1.84810432984e-05
+error_rate : 0.0
+
+epoch 718
+cost : 1.81698192137e-05
+error_rate : 0.0
+
+epoch 719
+cost : 1.79770961495e-05
+error_rate : 0.0
+
+epoch 720
+cost : 1.77179322236e-05
+error_rate : 0.0
+
+epoch 721
+cost : 1.74228628111e-05
+error_rate : 0.0
+
+epoch 722
+cost : 1.71989750015e-05
+error_rate : 0.0
+
+epoch 723
+cost : 1.70241453361e-05
+error_rate : 0.0
+
+epoch 724
+cost : 1.67772243458e-05
+error_rate : 0.0
+
+epoch 725
+cost : 1.6491221686e-05
+error_rate : 0.0
+
+epoch 726
+cost : 1.62954061125e-05
+error_rate : 0.0
+
+epoch 727
+cost : 1.61173193192e-05
+error_rate : 0.0
+
+epoch 728
+cost : 1.58669704433e-05
+error_rate : 0.0
+
+epoch 729
+cost : 1.56936812346e-05
+error_rate : 0.0
+
+epoch 730
+cost : 1.54958022449e-05
+error_rate : 0.0
+
+epoch 731
+cost : 1.5249535636e-05
+error_rate : 0.0
+
+epoch 732
+cost : 1.50710800426e-05
+error_rate : 0.0
+
+epoch 733
+cost : 1.48957149122e-05
+error_rate : 0.0
+
+epoch 734
+cost : 1.47147193275e-05
+error_rate : 0.0
+
+epoch 735
+cost : 1.44776181514e-05
+error_rate : 0.0
+
+epoch 736
+cost : 1.42850824432e-05
+error_rate : 0.0
+
+epoch 737
+cost : 1.41466571222e-05
+error_rate : 0.0
+
+epoch 738
+cost : 1.3939039718e-05
+error_rate : 0.0
+
+epoch 739
+cost : 1.37996705689e-05
+error_rate : 0.0
+
+epoch 740
+cost : 1.36065373226e-05
+error_rate : 0.0
+
+epoch 741
+cost : 1.34133840675e-05
+error_rate : 0.0
+
+epoch 742
+cost : 1.32484071855e-05
+error_rate : 0.0
+
+epoch 743
+cost : 1.30873827402e-05
+error_rate : 0.0
+
+epoch 744
+cost : 1.29463485337e-05
+error_rate : 0.0
+
+epoch 745
+cost : 1.28195686102e-05
+error_rate : 0.0
+
+epoch 746
+cost : 1.26143986563e-05
+error_rate : 0.0
+
+epoch 747
+cost : 1.24917105495e-05
+error_rate : 0.0
+
+epoch 748
+cost : 1.23501563394e-05
+error_rate : 0.0
+
+epoch 749
+cost : 1.2201440768e-05
+error_rate : 0.0
+
+epoch 750
+cost : 1.20641946069e-05
+error_rate : 0.0
+
+epoch 751
+cost : 1.19034200452e-05
+error_rate : 0.0
+
+epoch 752
+cost : 1.17530892112e-05
+error_rate : 0.0
+
+epoch 753
+cost : 1.16070195872e-05
+error_rate : 0.0
+
+epoch 754
+cost : 1.14784762673e-05
+error_rate : 0.0
+
+epoch 755
+cost : 1.13377159323e-05
+error_rate : 0.0
+
+epoch 756
+cost : 1.12223613087e-05
+error_rate : 0.0
+
+epoch 757
+cost : 1.10763967314e-05
+error_rate : 0.0
+
+epoch 758
+cost : 1.09722805064e-05
+error_rate : 0.0
+
+epoch 759
+cost : 1.08530114176e-05
+error_rate : 0.0
+
+epoch 760
+cost : 1.07197545276e-05
+error_rate : 0.0
+
+epoch 761
+cost : 1.05680442175e-05
+error_rate : 0.0
+
+epoch 762
+cost : 1.04629463067e-05
+error_rate : 0.0
+
+epoch 763
+cost : 1.03392155779e-05
+error_rate : 0.0
+
+epoch 764
+cost : 1.02348093378e-05
+error_rate : 0.0
+
+epoch 765
+cost : 1.01139568187e-05
+error_rate : 0.0
+
+epoch 766
+cost : 9.98742439151e-06
+error_rate : 0.0
+
+epoch 767
+cost : 9.87773523775e-06
+error_rate : 0.0
+
+epoch 768
+cost : 9.79404580903e-06
+error_rate : 0.0
+
+epoch 769
+cost : 9.68082758845e-06
+error_rate : 0.0
+
+epoch 770
+cost : 9.57921633926e-06
+error_rate : 0.0
+
+epoch 771
+cost : 9.46738180119e-06
+error_rate : 0.0
+
+epoch 772
+cost : 9.3545315849e-06
+error_rate : 0.0
+
+epoch 773
+cost : 9.27026496811e-06
+error_rate : 0.0
+
+epoch 774
+cost : 9.14165991617e-06
+error_rate : 0.0
+
+epoch 775
+cost : 9.04427690784e-06
+error_rate : 0.0
+
+epoch 776
+cost : 8.94887386949e-06
+error_rate : 0.0
+
+epoch 777
+cost : 8.86506575171e-06
+error_rate : 0.0
+
+epoch 778
+cost : 8.79744891336e-06
+error_rate : 0.0
+
+epoch 779
+cost : 8.68785707553e-06
+error_rate : 0.0
+
+epoch 780
+cost : 8.5952557356e-06
+error_rate : 0.0
+
+epoch 781
+cost : 8.51659660839e-06
+error_rate : 0.0
+
+epoch 782
+cost : 8.42549570734e-06
+error_rate : 0.0
+
+epoch 783
+cost : 8.3177022816e-06
+error_rate : 0.0
+
+epoch 784
+cost : 8.23301070341e-06
+error_rate : 0.0
+
+epoch 785
+cost : 8.14581449049e-06
+error_rate : 0.0
+
+epoch 786
+cost : 8.06528078101e-06
+error_rate : 0.0
+
+epoch 787
+cost : 7.97227119165e-06
+error_rate : 0.0
+
+epoch 788
+cost : 7.905702887e-06
+error_rate : 0.0
+
+epoch 789
+cost : 7.83191546816e-06
+error_rate : 0.0
+
+epoch 790
+cost : 7.74608247411e-06
+error_rate : 0.0
+
+epoch 791
+cost : 7.64315575452e-06
+error_rate : 0.0
+
+epoch 792
+cost : 7.58853320804e-06
+error_rate : 0.0
+
+epoch 793
+cost : 7.49851437831e-06
+error_rate : 0.0
+
+epoch 794
+cost : 7.43022258121e-06
+error_rate : 0.0
+
+epoch 795
+cost : 7.35823630293e-06
+error_rate : 0.0
+
+epoch 796
+cost : 7.27608710349e-06
+error_rate : 0.0
+
+epoch 797
+cost : 7.21888000044e-06
+error_rate : 0.0
+
+epoch 798
+cost : 7.13409565378e-06
+error_rate : 0.0
+
+epoch 799
+cost : 7.07178776338e-06
+error_rate : 0.0
+
+epoch 800
+cost : 6.99504380464e-06
+error_rate : 0.0
+
+epoch 801
+cost : 6.93447941558e-06
+error_rate : 0.0
+
+epoch 802
+cost : 6.8721263915e-06
+error_rate : 0.0
+
+epoch 803
+cost : 6.79611343912e-06
+error_rate : 0.0
+
+epoch 804
+cost : 6.73604290569e-06
+error_rate : 0.0
+
+epoch 805
+cost : 6.66253640702e-06
+error_rate : 0.0
+
+epoch 806
+cost : 6.59562635974e-06
+error_rate : 0.0
+
+epoch 807
+cost : 6.52654603073e-06
+error_rate : 0.0
+
+epoch 808
+cost : 6.48450952667e-06
+error_rate : 0.0
+
+epoch 809
+cost : 6.4120473553e-06
+error_rate : 0.0
+
+epoch 810
+cost : 6.34211039596e-06
+error_rate : 0.0
+
+epoch 811
+cost : 6.29632893379e-06
+error_rate : 0.0
+
+epoch 812
+cost : 6.24579729447e-06
+error_rate : 0.0
+
+epoch 813
+cost : 6.17182638507e-06
+error_rate : 0.0
+
+epoch 814
+cost : 6.11659629612e-06
+error_rate : 0.0
+
+epoch 815
+cost : 6.05046250257e-06
+error_rate : 0.0
+
+epoch 816
+cost : 6.00785540428e-06
+error_rate : 0.0
+
+epoch 817
+cost : 5.94511163854e-06
+error_rate : 0.0
+
+epoch 818
+cost : 5.89412695717e-06
+error_rate : 0.0
+
+epoch 819
+cost : 5.84310271279e-06
+error_rate : 0.0
+
+epoch 820
+cost : 5.7946861034e-06
+error_rate : 0.0
+
+epoch 821
+cost : 5.74020577915e-06
+error_rate : 0.0
+
+epoch 822
+cost : 5.68990094507e-06
+error_rate : 0.0
+
+epoch 823
+cost : 5.62941283988e-06
+error_rate : 0.0
+
+epoch 824
+cost : 5.57486237085e-06
+error_rate : 0.0
+
+epoch 825
+cost : 5.533262879e-06
+error_rate : 0.0
+
+epoch 826
+cost : 5.47562126485e-06
+error_rate : 0.0
+
+epoch 827
+cost : 5.43306202871e-06
+error_rate : 0.0
+
+epoch 828
+cost : 5.37233347586e-06
+error_rate : 0.0
+
+epoch 829
+cost : 5.33058198471e-06
+error_rate : 0.0
+
+epoch 830
+cost : 5.28686632606e-06
+error_rate : 0.0
+
+epoch 831
+cost : 5.24414156189e-06
+error_rate : 0.0
+
+epoch 832
+cost : 5.18801482485e-06
+error_rate : 0.0
+
+epoch 833
+cost : 5.14736223067e-06
+error_rate : 0.0
+
+epoch 834
+cost : 5.09931351189e-06
+error_rate : 0.0
+
+epoch 835
+cost : 5.06144601786e-06
+error_rate : 0.0
+
+epoch 836
+cost : 5.01863075897e-06
+error_rate : 0.0
+
+epoch 837
+cost : 4.96696520713e-06
+error_rate : 0.0
+
+epoch 838
+cost : 4.93445782013e-06
+error_rate : 0.0
+
+epoch 839
+cost : 4.88184286951e-06
+error_rate : 0.0
+
+epoch 840
+cost : 4.84924157718e-06
+error_rate : 0.0
+
+epoch 841
+cost : 4.79333789372e-06
+error_rate : 0.0
+
+epoch 842
+cost : 4.76426407658e-06
+error_rate : 0.0
+
+epoch 843
+cost : 4.71095279408e-06
+error_rate : 0.0
+
+epoch 844
+cost : 4.67926469128e-06
+error_rate : 0.0
+
+epoch 845
+cost : 4.637309587e-06
+error_rate : 0.0
+
+epoch 846
+cost : 4.60681383174e-06
+error_rate : 0.0
+
+epoch 847
+cost : 4.56549287264e-06
+error_rate : 0.0
+
+epoch 848
+cost : 4.52898086678e-06
+error_rate : 0.0
+
+epoch 849
+cost : 4.4879672032e-06
+error_rate : 0.0
+
+epoch 850
+cost : 4.44581701231e-06
+error_rate : 0.0
+
+epoch 851
+cost : 4.4160209427e-06
+error_rate : 0.0
+
+epoch 852
+cost : 4.37612322912e-06
+error_rate : 0.0
+
+epoch 853
+cost : 4.33036439063e-06
+error_rate : 0.0
+
+epoch 854
+cost : 4.29838854643e-06
+error_rate : 0.0
+
+epoch 855
+cost : 4.27060109587e-06
+error_rate : 0.0
+
+epoch 856
+cost : 4.228269745e-06
+error_rate : 0.0
+
+epoch 857
+cost : 4.19529044393e-06
+error_rate : 0.0
+
+epoch 858
+cost : 4.16685054461e-06
+error_rate : 0.0
+
+epoch 859
+cost : 4.13262870325e-06
+error_rate : 0.0
+
+epoch 860
+cost : 4.09540518831e-06
+error_rate : 0.0
+
+epoch 861
+cost : 4.05701467798e-06
+error_rate : 0.0
+
+epoch 862
+cost : 4.02413849088e-06
+error_rate : 0.0
+
+epoch 863
+cost : 3.99874153345e-06
+error_rate : 0.0
+
+epoch 864
+cost : 3.97153553422e-06
+error_rate : 0.0
+
+epoch 865
+cost : 3.93260978626e-06
+error_rate : 0.0
+
+epoch 866
+cost : 3.90025854813e-06
+error_rate : 0.0
+
+epoch 867
+cost : 3.8731280938e-06
+error_rate : 0.0
+
+epoch 868
+cost : 3.8420739088e-06
+error_rate : 0.0
+
+epoch 869
+cost : 3.81387468451e-06
+error_rate : 0.0
+
+epoch 870
+cost : 3.78101293563e-06
+error_rate : 0.0
+
+epoch 871
+cost : 3.75430522581e-06
+error_rate : 0.0
+
+epoch 872
+cost : 3.72140749505e-06
+error_rate : 0.0
+
+epoch 873
+cost : 3.69203701212e-06
+error_rate : 0.0
+
+epoch 874
+cost : 3.6688355749e-06
+error_rate : 0.0
+
+epoch 875
+cost : 3.63775041023e-06
+error_rate : 0.0
+
+epoch 876
+cost : 3.60237254426e-06
+error_rate : 0.0
+
+epoch 877
+cost : 3.57928632866e-06
+error_rate : 0.0
+
+epoch 878
+cost : 3.5551800579e-06
+error_rate : 0.0
+
+epoch 879
+cost : 3.52330715714e-06
+error_rate : 0.0
+
+epoch 880
+cost : 3.4986375681e-06
+error_rate : 0.0
+
+epoch 881
+cost : 3.47032641912e-06
+error_rate : 0.0
+
+epoch 882
+cost : 3.4446356949e-06
+error_rate : 0.0
+
+epoch 883
+cost : 3.4189837379e-06
+error_rate : 0.0
+
+epoch 884
+cost : 3.39543282735e-06
+error_rate : 0.0
+
+epoch 885
+cost : 3.36802088441e-06
+error_rate : 0.0
+
+epoch 886
+cost : 3.34000651492e-06
+error_rate : 0.0
+
+epoch 887
+cost : 3.31932284325e-06
+error_rate : 0.0
+
+epoch 888
+cost : 3.28845294462e-06
+error_rate : 0.0
+
+epoch 889
+cost : 3.26597807998e-06
+error_rate : 0.0
+
+epoch 890
+cost : 3.24590160972e-06
+error_rate : 0.0
+
+epoch 891
+cost : 3.21882839671e-06
+error_rate : 0.0
+
+epoch 892
+cost : 3.19637894108e-06
+error_rate : 0.0
+
+epoch 893
+cost : 3.1745410638e-06
+error_rate : 0.0
+
+epoch 894
+cost : 3.14803941137e-06
+error_rate : 0.0
+
+epoch 895
+cost : 3.13004301233e-06
+error_rate : 0.0
+
+epoch 896
+cost : 3.10315493834e-06
+error_rate : 0.0
+
+epoch 897
+cost : 3.07921857257e-06
+error_rate : 0.0
+
+epoch 898
+cost : 3.05760096353e-06
+error_rate : 0.0
+
+epoch 899
+cost : 3.03181644767e-06
+error_rate : 0.0
+
+epoch 900
+cost : 3.01437904682e-06
+error_rate : 0.0
+
+epoch 901
+cost : 2.99185626318e-06
+error_rate : 0.0
+
+epoch 902
+cost : 2.97000326555e-06
+error_rate : 0.0
+
+epoch 903
+cost : 2.94950001489e-06
+error_rate : 0.0
+
+epoch 904
+cost : 2.93142176133e-06
+error_rate : 0.0
+
+epoch 905
+cost : 2.90854205787e-06
+error_rate : 0.0
+
+epoch 906
+cost : 2.88656872272e-06
+error_rate : 0.0
+
+epoch 907
+cost : 2.8660660405e-06
+error_rate : 0.0
+
+epoch 908
+cost : 2.84693447838e-06
+error_rate : 0.0
+
+epoch 909
+cost : 2.82436752741e-06
+error_rate : 0.0
+
+epoch 910
+cost : 2.80448358581e-06
+error_rate : 0.0
+
+epoch 911
+cost : 2.78225189732e-06
+error_rate : 0.0
+
+epoch 912
+cost : 2.76336839988e-06
+error_rate : 0.0
+
+epoch 913
+cost : 2.74414406931e-06
+error_rate : 0.0
+
+epoch 914
+cost : 2.72830402537e-06
+error_rate : 0.0
+
+epoch 915
+cost : 2.71139521146e-06
+error_rate : 0.0
+
+epoch 916
+cost : 2.68918574875e-06
+error_rate : 0.0
+
+epoch 917
+cost : 2.67143246901e-06
+error_rate : 0.0
+
+epoch 918
+cost : 2.65193233417e-06
+error_rate : 0.0
+
+epoch 919
+cost : 2.63439835635e-06
+error_rate : 0.0
+
+epoch 920
+cost : 2.61774420096e-06
+error_rate : 0.0
+
+epoch 921
+cost : 2.59687686821e-06
+error_rate : 0.0
+
+epoch 922
+cost : 2.58002023656e-06
+error_rate : 0.0
+
+epoch 923
+cost : 2.56231373896e-06
+error_rate : 0.0
+
+epoch 924
+cost : 2.54554981893e-06
+error_rate : 0.0
+
+epoch 925
+cost : 2.52836269965e-06
+error_rate : 0.0
+
+epoch 926
+cost : 2.51400211937e-06
+error_rate : 0.0
+
+epoch 927
+cost : 2.49136866159e-06
+error_rate : 0.0
+
+epoch 928
+cost : 2.47599206205e-06
+error_rate : 0.0
+
+epoch 929
+cost : 2.45941834009e-06
+error_rate : 0.0
+
+epoch 930
+cost : 2.44372972702e-06
+error_rate : 0.0
+
+epoch 931
+cost : 2.42941109718e-06
+error_rate : 0.0
+
+epoch 932
+cost : 2.41103123244e-06
+error_rate : 0.0
+
+epoch 933
+cost : 2.3930624593e-06
+error_rate : 0.0
+
+epoch 934
+cost : 2.37931567426e-06
+error_rate : 0.0
+
+epoch 935
+cost : 2.36354037497e-06
+error_rate : 0.0
+
+epoch 936
+cost : 2.34791309595e-06
+error_rate : 0.0
+
+epoch 937
+cost : 2.33505488723e-06
+error_rate : 0.0
+
+epoch 938
+cost : 2.31521812566e-06
+error_rate : 0.0
+
+epoch 939
+cost : 2.30171355042e-06
+error_rate : 0.0
+
+epoch 940
+cost : 2.2874297656e-06
+error_rate : 0.0
+
+epoch 941
+cost : 2.2735430889e-06
+error_rate : 0.0
+
+epoch 942
+cost : 2.25521148423e-06
+error_rate : 0.0
+
+epoch 943
+cost : 2.24275743221e-06
+error_rate : 0.0
+
+epoch 944
+cost : 2.22996959565e-06
+error_rate : 0.0
+
+epoch 945
+cost : 2.21261183242e-06
+error_rate : 0.0
+
+epoch 946
+cost : 2.20066459633e-06
+error_rate : 0.0
+
+epoch 947
+cost : 2.18490566795e-06
+error_rate : 0.0
+
+epoch 948
+cost : 2.17368290123e-06
+error_rate : 0.0
+
+epoch 949
+cost : 2.15845966522e-06
+error_rate : 0.0
+
+epoch 950
+cost : 2.14480448335e-06
+error_rate : 0.0
+
+epoch 951
+cost : 2.12753468531e-06
+error_rate : 0.0
+
+epoch 952
+cost : 2.11419401808e-06
+error_rate : 0.0
+
+epoch 953
+cost : 2.10452253668e-06
+error_rate : 0.0
+
+epoch 954
+cost : 2.08878762464e-06
+error_rate : 0.0
+
+epoch 955
+cost : 2.07415905606e-06
+error_rate : 0.0
+
+epoch 956
+cost : 2.06126023272e-06
+error_rate : 0.0
+
+epoch 957
+cost : 2.05066214676e-06
+error_rate : 0.0
+
+epoch 958
+cost : 2.03906051865e-06
+error_rate : 0.0
+
+epoch 959
+cost : 2.02563461471e-06
+error_rate : 0.0
+
+epoch 960
+cost : 2.00999173217e-06
+error_rate : 0.0
+
+epoch 961
+cost : 1.99883913865e-06
+error_rate : 0.0
+
+epoch 962
+cost : 1.98729225076e-06
+error_rate : 0.0
+
+epoch 963
+cost : 1.97563548454e-06
+error_rate : 0.0
+
+epoch 964
+cost : 1.96146686449e-06
+error_rate : 0.0
+
+epoch 965
+cost : 1.95133446823e-06
+error_rate : 0.0
+
+epoch 966
+cost : 1.93647343849e-06
+error_rate : 0.0
+
+epoch 967
+cost : 1.92650571762e-06
+error_rate : 0.0
+
+epoch 968
+cost : 1.91281887396e-06
+error_rate : 0.0
+
+epoch 969
+cost : 1.90254473864e-06
+error_rate : 0.0
+
+epoch 970
+cost : 1.89160138575e-06
+error_rate : 0.0
+
+epoch 971
+cost : 1.87978056942e-06
+error_rate : 0.0
+
+epoch 972
+cost : 1.86821100101e-06
+error_rate : 0.0
+
+epoch 973
+cost : 1.85817663123e-06
+error_rate : 0.0
+
+epoch 974
+cost : 1.84540721193e-06
+error_rate : 0.0
+
+epoch 975
+cost : 1.83414769594e-06
+error_rate : 0.0
+
+epoch 976
+cost : 1.82265949888e-06
+error_rate : 0.0
+
+epoch 977
+cost : 1.8121062908e-06
+error_rate : 0.0
+
+epoch 978
+cost : 1.8008013285e-06
+error_rate : 0.0
+
+epoch 979
+cost : 1.7904067704e-06
+error_rate : 0.0
+
+epoch 980
+cost : 1.78015972097e-06
+error_rate : 0.0
+
+epoch 981
+cost : 1.7701165973e-06
+error_rate : 0.0
+
+epoch 982
+cost : 1.75874325237e-06
+error_rate : 0.0
+
+epoch 983
+cost : 1.74811148668e-06
+error_rate : 0.0
+
+epoch 984
+cost : 1.7388736353e-06
+error_rate : 0.0
+
+epoch 985
+cost : 1.72930410258e-06
+error_rate : 0.0
+
+epoch 986
+cost : 1.71728339637e-06
+error_rate : 0.0
+
+epoch 987
+cost : 1.70840095848e-06
+error_rate : 0.0
+
+epoch 988
+cost : 1.69669021943e-06
+error_rate : 0.0
+
+epoch 989
+cost : 1.68679270018e-06
+error_rate : 0.0
+
+epoch 990
+cost : 1.67727984035e-06
+error_rate : 0.0
+
+epoch 991
+cost : 1.66869062923e-06
+error_rate : 0.0
+
+epoch 992
+cost : 1.6576748294e-06
+error_rate : 0.0
+
+epoch 993
+cost : 1.64848935924e-06
+error_rate : 0.0
+
+epoch 994
+cost : 1.63821042065e-06
+error_rate : 0.0
+
+epoch 995
+cost : 1.62784300528e-06
+error_rate : 0.0
+
+epoch 996
+cost : 1.61919763286e-06
+error_rate : 0.0
+
+epoch 997
+cost : 1.61205574045e-06
+error_rate : 0.0
+
+epoch 998
+cost : 1.60081614808e-06
+error_rate : 0.0
+
+epoch 999
+cost : 1.59199439054e-06
+error_rate : 0.0
+
+epoch 1000
+cost : 1.58397156724e-06
+error_rate : 0.0
+

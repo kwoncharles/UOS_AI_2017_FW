@@ -1,0 +1,10 @@
+Body :60 Tail :11 ===> salmon
+Body :68 Tail :18 ===> salmon
+Body :80 Tail :15 ===> salmon
+Body :75 Tail :13 ===> salmon
+Body :84 Tail :20 ===> salmon
+Body :99 Tail :12 ===> seabass
+Body :102 Tail :9 ===> seabass
+Body :110 Tail :5 ===> seabass
+Body :85 Tail :8 ===> seabass
+Body :82 Tail :7 ===> seabass

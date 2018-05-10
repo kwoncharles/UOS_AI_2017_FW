@@ -1,0 +1,1032 @@
+epoch 1
+cost : 0.478146038949
+error_rate : 0.5
+
+epoch 2
+cost : 0.476004779339
+error_rate : 0.5
+
+epoch 3
+cost : 0.474120795727
+error_rate : 0.5
+
+epoch 4
+cost : 0.470817819238
+error_rate : 0.5
+
+epoch 5
+cost : 0.467308156192
+error_rate : 0.5
+
+epoch 6
+cost : 0.464452587068
+error_rate : 0.5
+
+epoch 7
+cost : 0.458779856563
+error_rate : 0.5
+
+epoch 8
+cost : 0.450245149434
+error_rate : 0.5
+
+epoch 9
+cost : 0.442374423146
+error_rate : 0.5
+
+epoch 10
+cost : 0.433118499815
+error_rate : 0.5
+
+epoch 11
+cost : 0.410875424743
+error_rate : 0.5
+
+epoch 12
+cost : 0.395329728723
+error_rate : 0.5
+
+epoch 13
+cost : 0.322815496475
+error_rate : 0.5
+
+epoch 14
+cost : 0.253583371639
+error_rate : 0.5
+
+epoch 15
+cost : 0.214753344655
+error_rate : 0.5
+
+epoch 16
+cost : 0.191397463903
+error_rate : 0.5
+
+epoch 17
+cost : 0.115438222885
+error_rate : 0.5
+
+epoch 18
+cost : 0.140940675512
+error_rate : 0.5
+
+epoch 19
+cost : 0.0976107437164
+error_rate : 0.5
+
+epoch 20
+cost : 0.103023844771
+error_rate : 0.5
+
+epoch 21
+cost : 0.123774345964
+error_rate : 0.5
+
+epoch 22
+cost : 0.135055473074
+error_rate : 0.5
+
+epoch 23
+cost : 0.11698869057
+error_rate : 0.5
+
+epoch 24
+cost : 0.0695858262479
+error_rate : 0.5
+
+epoch 25
+cost : 0.0694126505405
+error_rate : 0.5
+
+epoch 26
+cost : 0.0185444649542
+error_rate : 0.5
+
+epoch 27
+cost : 0.0103394563776
+error_rate : 0.25
+
+epoch 28
+cost : 0.00321205276123
+error_rate : 0.5
+
+epoch 29
+cost : 0.0017417664053
+error_rate : 0.75
+
+epoch 30
+cost : 0.0010306555987
+error_rate : 0.25
+
+epoch 31
+cost : 0.000856230578961
+error_rate : 0.25
+
+epoch 32
+cost : 0.000690914604036
+error_rate : 0.75
+
+epoch 33
+cost : 0.000677032162598
+error_rate : 0.25
+
+epoch 34
+cost : 0.000649739726249
+error_rate : 0.5
+
+epoch 35
+cost : 0.000546715290398
+error_rate : 0.75
+
+epoch 36
+cost : 0.000690237929575
+error_rate : 0.75
+
+epoch 37
+cost : 0.000709207600748
+error_rate : 0.25
+
+epoch 38
+cost : 0.000625868666162
+error_rate : 0.5
+
+epoch 39
+cost : 0.000702682515702
+error_rate : 0.5
+
+epoch 40
+cost : 0.000642315214577
+error_rate : 0.25
+
+epoch 41
+cost : 0.000670559921289
+error_rate : 0.25
+
+epoch 42
+cost : 0.000672299128354
+error_rate : 0.25
+
+epoch 43
+cost : 0.000650952151432
+error_rate : 0.25
+
+epoch 44
+cost : 0.000661947916313
+error_rate : 0.5
+
+epoch 45
+cost : 0.000689514936539
+error_rate : 0.5
+
+epoch 46
+cost : 0.00067385946727
+error_rate : 0.5
+
+epoch 47
+cost : 0.000680228980514
+error_rate : 0.5
+
+epoch 48
+cost : 0.000670876097388
+error_rate : 0.5
+
+epoch 49
+cost : 0.000613139296775
+error_rate : 0.5
+
+epoch 50
+cost : 0.000691858052724
+error_rate : 0.5
+
+epoch 51
+cost : 0.000658320480753
+error_rate : 0.5
+
+epoch 52
+cost : 0.000586296578792
+error_rate : 0.5
+
+epoch 53
+cost : 0.000668576877246
+error_rate : 0.5
+
+epoch 54
+cost : 0.000644702192517
+error_rate : 0.75
+
+epoch 55
+cost : 0.000675555966893
+error_rate : 0.75
+
+epoch 56
+cost : 0.000712599418648
+error_rate : 0.5
+
+epoch 57
+cost : 0.000694289570564
+error_rate : 0.25
+
+epoch 58
+cost : 0.000612198140457
+error_rate : 0.5
+
+epoch 59
+cost : 0.000680019087724
+error_rate : 0.5
+
+epoch 60
+cost : 0.000711065386156
+error_rate : 0.25
+
+epoch 61
+cost : 0.000621239897896
+error_rate : 0.5
+
+epoch 62
+cost : 0.000668751065177
+error_rate : 0.75
+
+epoch 63
+cost : 0.000730098459471
+error_rate : 0.5
+
+epoch 64
+cost : 0.000681004645799
+error_rate : 0.5
+
+epoch 65
+cost : 0.000708745489646
+error_rate : 0.25
+
+epoch 66
+cost : 0.000689037269353
+error_rate : 0.25
+
+epoch 67
+cost : 0.000705101220362
+error_rate : 0.25
+
+epoch 68
+cost : 0.000697624714633
+error_rate : 0.5
+
+epoch 69
+cost : 0.000650996454237
+error_rate : 0.25
+
+epoch 70
+cost : 0.000614898759565
+error_rate : 0.5
+
+epoch 71
+cost : 0.00071278906492
+error_rate : 0.25
+
+epoch 72
+cost : 0.00067458476849
+error_rate : 0.25
+
+epoch 73
+cost : 0.000678508980201
+error_rate : 0.25
+
+epoch 74
+cost : 0.000632669483053
+error_rate : 0.75
+
+epoch 75
+cost : 0.000697058168043
+error_rate : 0.75
+
+epoch 76
+cost : 0.000707461111475
+error_rate : 0.5
+
+epoch 77
+cost : 0.000644193385597
+error_rate : 0.75
+
+epoch 78
+cost : 0.000694417377858
+error_rate : 0.75
+
+epoch 79
+cost : 0.000686196931468
+error_rate : 0.75
+
+epoch 80
+cost : 0.000706087423623
+error_rate : 0.25
+
+epoch 81
+cost : 0.000691049199318
+error_rate : 0.25
+
+epoch 82
+cost : 0.000701504256597
+error_rate : 0.5
+
+epoch 83
+cost : 0.000683143457778
+error_rate : 0.5
+
+epoch 84
+cost : 0.000690640925058
+error_rate : 0.5
+
+epoch 85
+cost : 0.000682299807536
+error_rate : 0.5
+
+epoch 86
+cost : 0.000623293919392
+error_rate : 0.25
+
+epoch 87
+cost : 0.00064767224751
+error_rate : 0.75
+
+epoch 88
+cost : 0.000700726836342
+error_rate : 0.25
+
+epoch 89
+cost : 0.000660287605115
+error_rate : 0.25
+
+epoch 90
+cost : 0.000690914127816
+error_rate : 0.25
+
+epoch 91
+cost : 0.000676361393971
+error_rate : 0.25
+
+epoch 92
+cost : 0.000633247147135
+error_rate : 0.75
+
+epoch 93
+cost : 0.000671778593954
+error_rate : 0.75
+
+epoch 94
+cost : 0.000673704469833
+error_rate : 0.75
+
+epoch 95
+cost : 0.00067412967573
+error_rate : 0.75
+
+epoch 96
+cost : 0.000658601054742
+error_rate : 0.75
+
+epoch 97
+cost : 0.000644083231435
+error_rate : 0.75
+
+epoch 98
+cost : 0.000672316606369
+error_rate : 0.75
+
+epoch 99
+cost : 0.000686355155722
+error_rate : 0.75
+
+epoch 100
+cost : 0.00067362909278
+error_rate : 0.25
+
+epoch 101
+cost : 0.000661060357515
+error_rate : 0.25
+
+epoch 102
+cost : 0.000657318767054
+error_rate : 0.25
+
+epoch 103
+cost : 0.000638398896086
+error_rate : 0.75
+
+epoch 104
+cost : 0.000667958718168
+error_rate : 0.25
+
+epoch 105
+cost : 0.000656615720942
+error_rate : 0.25
+
+epoch 106
+cost : 0.000658880466403
+error_rate : 0.25
+
+epoch 107
+cost : 0.000647127112416
+error_rate : 0.5
+
+epoch 108
+cost : 0.000653604525894
+error_rate : 0.75
+
+epoch 109
+cost : 0.000664248598866
+error_rate : 0.25
+
+epoch 110
+cost : 0.000672216207647
+error_rate : 0.5
+
+epoch 111
+cost : 0.000654125676192
+error_rate : 0.25
+
+epoch 112
+cost : 0.000669321679638
+error_rate : 0.5
+
+epoch 113
+cost : 0.000658323087563
+error_rate : 0.5
+
+epoch 114
+cost : 0.000646707489256
+error_rate : 0.5
+
+epoch 115
+cost : 0.000659752715727
+error_rate : 0.5
+
+epoch 116
+cost : 0.000622292230638
+error_rate : 0.25
+
+epoch 117
+cost : 0.000673694768711
+error_rate : 0.5
+
+epoch 118
+cost : 0.00064974166576
+error_rate : 0.25
+
+epoch 119
+cost : 0.000660319714285
+error_rate : 0.5
+
+epoch 120
+cost : 0.000620627216662
+error_rate : 0.5
+
+epoch 121
+cost : 0.000655079000467
+error_rate : 0.5
+
+epoch 122
+cost : 0.000620801970371
+error_rate : 0.5
+
+epoch 123
+cost : 0.000654235703223
+error_rate : 0.5
+
+epoch 124
+cost : 0.000636948689248
+error_rate : 0.5
+
+epoch 125
+cost : 0.000619209383387
+error_rate : 0.5
+
+epoch 126
+cost : 0.000651322236536
+error_rate : 0.5
+
+epoch 127
+cost : 0.000636884193852
+error_rate : 0.5
+
+epoch 128
+cost : 0.000621948114315
+error_rate : 0.5
+
+epoch 129
+cost : 0.000634970783267
+error_rate : 0.75
+
+epoch 130
+cost : 0.000651622962891
+error_rate : 0.5
+
+epoch 131
+cost : 0.000623963914393
+error_rate : 0.5
+
+epoch 132
+cost : 0.000649767267475
+error_rate : 0.5
+
+epoch 133
+cost : 0.000652124120734
+error_rate : 0.5
+
+epoch 134
+cost : 0.000624044199185
+error_rate : 0.5
+
+epoch 135
+cost : 0.0006185413867
+error_rate : 0.5
+
+epoch 136
+cost : 0.000629154138551
+error_rate : 0.5
+
+epoch 137
+cost : 0.00063607434744
+error_rate : 0.5
+
+epoch 138
+cost : 0.000644416138357
+error_rate : 0.5
+
+epoch 139
+cost : 0.000650323079753
+error_rate : 0.5
+
+epoch 140
+cost : 0.000615686610502
+error_rate : 0.5
+
+epoch 141
+cost : 0.00064551400385
+error_rate : 0.5
+
+epoch 142
+cost : 0.000641731418867
+error_rate : 0.75
+
+epoch 143
+cost : 0.000639668200265
+error_rate : 0.5
+
+epoch 144
+cost : 0.000640277187188
+error_rate : 0.5
+
+epoch 145
+cost : 0.000601520493717
+error_rate : 0.75
+
+epoch 146
+cost : 0.000623845664109
+error_rate : 0.5
+
+epoch 147
+cost : 0.000649902310045
+error_rate : 0.75
+
+epoch 148
+cost : 0.000623317117416
+error_rate : 0.75
+
+epoch 149
+cost : 0.000644961449666
+error_rate : 0.5
+
+epoch 150
+cost : 0.000635035929236
+error_rate : 0.75
+
+epoch 151
+cost : 0.000625975502146
+error_rate : 0.75
+
+epoch 152
+cost : 0.000648552814255
+error_rate : 0.5
+
+epoch 153
+cost : 0.000652590748416
+error_rate : 0.5
+
+epoch 154
+cost : 0.000632535377576
+error_rate : 0.75
+
+epoch 155
+cost : 0.00064858853375
+error_rate : 0.5
+
+epoch 156
+cost : 0.000646693580904
+error_rate : 0.75
+
+epoch 157
+cost : 0.000620357618914
+error_rate : 0.75
+
+epoch 158
+cost : 0.000634343428828
+error_rate : 0.75
+
+epoch 159
+cost : 0.000640228330781
+error_rate : 0.5
+
+epoch 160
+cost : 0.000643091375991
+error_rate : 0.5
+
+epoch 161
+cost : 0.00063052081191
+error_rate : 0.5
+
+epoch 162
+cost : 0.00064846148473
+error_rate : 0.5
+
+epoch 163
+cost : 0.000649964442232
+error_rate : 0.5
+
+epoch 164
+cost : 0.000629403384423
+error_rate : 0.5
+
+epoch 165
+cost : 0.000647037120302
+error_rate : 0.5
+
+epoch 166
+cost : 0.000662040800307
+error_rate : 0.5
+
+epoch 167
+cost : 0.000657293833569
+error_rate : 0.5
+
+epoch 168
+cost : 0.000653843204191
+error_rate : 0.5
+
+epoch 169
+cost : 0.000647405772725
+error_rate : 0.5
+
+epoch 170
+cost : 0.000648919454704
+error_rate : 0.5
+
+epoch 171
+cost : 0.000658103345245
+error_rate : 0.5
+
+epoch 172
+cost : 0.000631731824456
+error_rate : 0.5
+
+epoch 173
+cost : 0.000627142776693
+error_rate : 0.5
+
+epoch 174
+cost : 0.000662140526856
+error_rate : 0.5
+
+epoch 175
+cost : 0.000664193290959
+error_rate : 0.5
+
+epoch 176
+cost : 0.000648295710562
+error_rate : 0.5
+
+epoch 177
+cost : 0.000650171877055
+error_rate : 0.5
+
+epoch 178
+cost : 0.00066628073057
+error_rate : 0.5
+
+epoch 179
+cost : 0.000623790673217
+error_rate : 0.5
+
+epoch 180
+cost : 0.000632991946759
+error_rate : 0.5
+
+epoch 181
+cost : 0.000642370310743
+error_rate : 0.5
+
+epoch 182
+cost : 0.00067319372215
+error_rate : 0.5
+
+epoch 183
+cost : 0.000633337872159
+error_rate : 0.5
+
+epoch 184
+cost : 0.000650707438467
+error_rate : 0.5
+
+epoch 185
+cost : 0.000623367270236
+error_rate : 0.5
+
+epoch 186
+cost : 0.000642805950974
+error_rate : 0.5
+
+epoch 187
+cost : 0.000667731269914
+error_rate : 0.5
+
+epoch 188
+cost : 0.000655957027647
+error_rate : 0.5
+
+epoch 189
+cost : 0.000664355002128
+error_rate : 0.5
+
+epoch 190
+cost : 0.000687972155674
+error_rate : 0.5
+
+epoch 191
+cost : 0.000692619030265
+error_rate : 0.5
+
+epoch 192
+cost : 0.000647316005988
+error_rate : 0.5
+
+epoch 193
+cost : 0.000646140817419
+error_rate : 0.5
+
+epoch 194
+cost : 0.000635937752678
+error_rate : 0.5
+
+epoch 195
+cost : 0.000624671319088
+error_rate : 0.5
+
+epoch 196
+cost : 0.000622930403722
+error_rate : 0.5
+
+epoch 197
+cost : 0.000600222467313
+error_rate : 0.5
+
+epoch 198
+cost : 0.000609635776982
+error_rate : 0.5
+
+epoch 199
+cost : 0.00058949055483
+error_rate : 0.5
+
+epoch 200
+cost : 0.000604816697376
+error_rate : 0.5
+
+epoch 201
+cost : 0.000597247256067
+error_rate : 0.5
+
+epoch 202
+cost : 0.000604244896376
+error_rate : 0.5
+
+epoch 203
+cost : 0.000597554617785
+error_rate : 0.5
+
+epoch 204
+cost : 0.000602855225281
+error_rate : 0.5
+
+epoch 205
+cost : 0.000608796238055
+error_rate : 0.5
+
+epoch 206
+cost : 0.000577457819929
+error_rate : 0.5
+
+epoch 207
+cost : 0.000591001125883
+error_rate : 0.5
+
+epoch 208
+cost : 0.000599166313642
+error_rate : 0.5
+
+epoch 209
+cost : 0.000593984769296
+error_rate : 0.5
+
+epoch 210
+cost : 0.000604337518126
+error_rate : 0.5
+
+epoch 211
+cost : 0.000581999396152
+error_rate : 0.5
+
+epoch 212
+cost : 0.000600724941215
+error_rate : 0.5
+
+epoch 213
+cost : 0.000607047319988
+error_rate : 0.5
+
+epoch 214
+cost : 0.000597881536663
+error_rate : 0.5
+
+epoch 215
+cost : 0.000598237475742
+error_rate : 0.5
+
+epoch 216
+cost : 0.000593148712529
+error_rate : 0.5
+
+epoch 217
+cost : 0.00059880508536
+error_rate : 0.5
+
+epoch 218
+cost : 0.000601650098417
+error_rate : 0.5
+
+epoch 219
+cost : 0.000603755616282
+error_rate : 0.5
+
+epoch 220
+cost : 0.000592471836796
+error_rate : 0.5
+
+epoch 221
+cost : 0.000588495352247
+error_rate : 0.5
+
+epoch 222
+cost : 0.000600303750105
+error_rate : 0.5
+
+epoch 223
+cost : 0.00058566304476
+error_rate : 0.5
+
+epoch 224
+cost : 0.00057759982711
+error_rate : 0.5
+
+epoch 225
+cost : 0.000598279370422
+error_rate : 0.5
+
+epoch 226
+cost : 0.000594409038602
+error_rate : 0.5
+
+epoch 227
+cost : 0.000627141316286
+error_rate : 0.5
+
+epoch 228
+cost : 0.000603111270649
+error_rate : 0.5
+
+epoch 229
+cost : 0.000599115042775
+error_rate : 0.5
+
+epoch 230
+cost : 0.000601688573113
+error_rate : 0.5
+
+epoch 231
+cost : 0.000564472533913
+error_rate : 0.5
+
+epoch 232
+cost : 0.000586878104792
+error_rate : 0.5
+
+epoch 233
+cost : 0.000600405716153
+error_rate : 0.5
+
+epoch 234
+cost : 0.000582500456687
+error_rate : 0.5
+
+epoch 235
+cost : 0.000601147235614
+error_rate : 0.5
+
+epoch 236
+cost : 0.000585365087289
+error_rate : 0.5
+
+epoch 237
+cost : 0.000588233761761
+error_rate : 0.5
+
+epoch 238
+cost : 0.000591583306857
+error_rate : 0.25
+
+epoch 239
+cost : 0.000583853956329
+error_rate : 0.25
+
+epoch 240
+cost : 0.000603326407315
+error_rate : 0.25
+
+epoch 241
+cost : 0.000614121422402
+error_rate : 0.25
+
+epoch 242
+cost : 0.000599790259571
+error_rate : 0.25
+
+epoch 243
+cost : 0.00059854888098
+error_rate : 0.25
+
+epoch 244
+cost : 0.00059050446432
+error_rate : 0.25
+
+epoch 245
+cost : 0.000594287560432
+error_rate : 0.25
+
+epoch 246
+cost : 0.000574068064566
+error_rate : 0.25
+
+epoch 247
+cost : 0.000579511461353
+error_rate : 0.25
+
+epoch 248
+cost : 0.000590099230422
+error_rate : 0.25
+
+epoch 249
+cost : 0.00056769372226
+error_rate : 0.0
+
+epoch 250
+cost : 0.000578062453599
+error_rate : 0.0
+
+epoch 251
+cost : 0.000578884901972
+error_rate : 0.0
+
+epoch 252
+cost : 0.000575601119266
+error_rate : 0.0
+
+epoch 253
+cost : 0.000587738468994
+error_rate : 0.0
+
+epoch 254
+cost : 0.000562153423004
+error_rate : 0.0
+
+epoch 255
+cost : 0.000571953797959
+error_rate : 0.0
+
+epoch 256
+cost : 0.000567974785895
+error_rate : 0.0
+
+epoch 257
+cost : 0.000551524870957
+error_rate : 0.0
+
+epoch 258
+cost : 0.000545695481321
+error_rate : 0.0
+

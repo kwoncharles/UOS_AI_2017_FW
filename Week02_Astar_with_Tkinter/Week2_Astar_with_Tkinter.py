@@ -63,7 +63,7 @@ class App:
         self.button = tk.Button(master, text = 'run', command = self.run)
         self.button.pack(side=tk.BOTTOM)
         
-        # Plot map
+        # Plot the map
         for row in range(len(map)):
             for col in range(len(map[0])):
                 if map[row][col] == 0:
@@ -106,7 +106,7 @@ class App:
             self.visited.append([])
             nodeName = getNodeName(current)
             
-            # If it got at goal node,  print the route and passed nodes count
+            # If it got at goal node,then print the route and passed nodes count
             if(nodeName == 15):
                 self.button.pack_forget()
                 fp = open("output.txt", "w")

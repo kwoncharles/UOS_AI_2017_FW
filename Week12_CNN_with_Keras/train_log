@@ -1,0 +1,5 @@
+Train log (SID : 2015920070)
+
+epoch1 loss : 0.017 , accuracy : 0.908
+epoch2 loss : 0.009 , accuracy : 0.956
+epoch3 loss : 0.008 , accuracy : 0.966

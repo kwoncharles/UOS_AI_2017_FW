@@ -10,7 +10,7 @@ map.append(range(11, 16))
 map.append(range(16, 21))
 map.append(range(21, 26))
 
-# 막힌 곳은 0으로 표시
+# Closed parts are marked as 0
 map[0][3] = 0
 map[1][1] = 0
 map[2][1] = 0
@@ -18,12 +18,12 @@ map[1][3] = 0
 map[2][3] = 0
 map[4][3] = 0
 
-# 노드의 좌표로부터 이름 반환
+
 def getNodeName(location):
     return map[location[0]][location[1]]
 
 
-# 해당 노드로 이동 가능한지 확인
+# Figure whether can visit the node out
 def isExist(location, toVisit, alreadyVisited):
     if location[0] < 0:
         return False
@@ -37,33 +37,33 @@ def isExist(location, toVisit, alreadyVisited):
     if location[1] > 4:
         return False
     
-    # 막힌 곳 판정
+    # If it's closed
     if getNodeName(location) == 0:
         return False
     
-    # 이미 방문해야 할 목록에 들어있는지 판정
+    # If it's already in toVisit list
     if location in toVisit:
         return False
     
-    # 이미 방문했던 곳 판정
+    # If it's already visited
     if location in alreadyVisited:
         return False
     
     return True
 
 
-# 윈도우 콜백 클래스
+# Window callback
 class App:
     def __init__(self, master):
-        # 맵을 그릴 캔버스 생성
+        # Create canvas
         self.canvas = tk.Canvas(master, width = 800, height = 600)
         self.canvas.pack()
         
-        # 버튼 생성
+        # Create button
         self.button = tk.Button(master, text = 'run', command = self.run)
         self.button.pack(side=tk.BOTTOM)
         
-        # 맵 그리기
+        # Plot map
         for row in range(len(map)):
             for col in range(len(map[0])):
                 if map[row][col] == 0:
@@ -74,10 +74,10 @@ class App:
                 self.canvas.create_rectangle(col * 100, row * 100, col * 100 + 100, row * 100 + 100, fill = fillColor, outline = 'blue')
                 self.canvas.create_text(col * 100 + 50, row * 100 + 50, text = map[row][col])
         
-        # A* 초기화
-        self.start = [2, 0, 0] # 행 , 열  , g(n)(계산용))
+        # Initialize A*
+        self.start = [2, 0, 0] # row, col, g(n)(for computing))
         
-        # 이동한 횟수를 저장할 변수 count 선언
+        # save moving counts
         self.count = 0
         
         node = getNodeName(self.start)
@@ -86,9 +86,8 @@ class App:
         self.toVisit = []
         self.toVisit.append(self.start)
         self.visited= []
-        self.astar = [] # astar 리스트 선언 및 초기화
+        self.astar = [] #
         
-        # class의 다른 method에서도 root를 사용할 수 있도록 저장
         self.root = master
     
     def run(self):
@@ -96,21 +95,20 @@ class App:
             print "step {}\n\n".format(self.count+1)
             
             current = self.toVisit.pop(0)
-            #temp = self.astar.pop(0) # astar 값도 삭제
             
-            # 현재 노드 칠하기
+            # paint current node
             row = current[0]
             col = current[1]
             self.canvas.create_rectangle(col * 100, row * 100, col * 100 + 100, row * 100 + 100, fill = 'red', outline = 'blue')
             
-            # 색칠된 current 노드를 alreadyVisit 리스트에 추가
+            # Add painted node to alreadyVisit list
             self.alreadyVisited.append([current[0],current[1]])
             self.visited.append([])
             nodeName = getNodeName(current)
             
-            # 목표지점에 도달했다면 현재까지의 경로와 거쳐 온 노드 수 출력
+            # If it got at goal node,  print the route and passed nodes count
             if(nodeName == 15):
-                self.button.pack_forget() # 버튼 삭제
+                self.button.pack_forget()
                 fp = open("output.txt", "w")
                 fp.write("Astar Shortest Path\n:")
                 for i in range(len(self.alreadyVisited)):
@@ -144,7 +142,7 @@ class App:
                 label = tk.Label(self.root, text= "Finished !\nSteps to find Shortest Path : {}".format(self.count))
                 label.pack()
             
-            # 현재 노드의 자식 노드(인접 노드)를 방문해야 할 리스트에 추가
+            # Add child of current node to list to visit.
             childList = []
             childList.append([current[0], current[1] + 1] )
             childList.append([current[0] - 1, current[1]])
@@ -153,33 +151,37 @@ class App:
             
             
             for child in childList:
-                # 갈 수 있는 노드인 경우에만 추가
+                # Add only if it is can visit
                 if isExist(child, self.toVisit, self.alreadyVisited) == True:
                     
+                    # g(n), Add the value of previous visited node
                     child = [child[0],child[1],current[2]+1,[current[0],current[1]]] # g(n), 이전 방문 노드의 값을 노드에 추가
                     self.toVisit.append(child)
                     num1 = abs(child[0] - 2) + abs(child[1] - 4) # h(n)
                     num2 = child[2] # g(n)
                     num3 = num1 + num2 # f(n)
                     
-                    self.astar.append([num3,num1,num2,child]) # [ f(n), h(n), g(n), 노드 ] 순서로 astar리스트에 덧붙인다
+                    self.astar.append([num3,num1,num2,child]) # [ f(n), h(n), g(n), node ]
     
     
             print "current toVisit value :\n",self.toVisit
             
-            # astar 리스트를 f(n)값 기준으로 오름차순 정렬
+            # Sort ascending order
             self.astar.sort()
             
             print "\ncurrent Astar value : \n /// [ f(n) , h(n) , g(n) , [row, column, g(n)] ] ///\n"
             for i in range(len(self.astar)):
                 print "[{},{}] : {}\n".format(self.astar[i][3][0],self.astar[i][3][1], self.astar[i])
-            # astar에서 f(n)이 가장 작은 값을 가졌던 노드를 toVisit의 맨 앞으로 삽입 (pop했을 때 나올 수 있도록)
+            # Insert the node that has a minimum value in the head of toVisit list
+            # So when we call the pop function, we can get the minimum node
             
-            self.toVisit.remove(self.astar[0][3]) # astar는 리스트의 첫번째 값을 기준으로
-            # 정렬되어있기 때문에 astar[0]은 f(n)이 가장 작은 노드이다
+            self.toVisit.remove(self.astar[0][3])
+            
+            # Astar list is sorted based on first index's value(f(n)
+            # So, astar[0] is the node that has the smallest f(n) value
             self.toVisit.insert(0,self.astar[0][3])
             
-            self.astar.pop(0) # toVisit의 맨 앞으로 넘겨준 astar 값 삭제
+            # Delete the used value
             
             print "\nvisited Node :", self.alreadyVisited,"\n\n"
             

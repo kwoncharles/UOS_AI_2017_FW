@@ -7,22 +7,22 @@ import numpy as np
 import numpy.random as nr
 import pickle as pkl
 
-# MNIST 데이터 경로
-#_SRC_PATH = u'..\\'
-#_TRAIN_DATA_FILE = _SRC_PATH + u'\\train-images.idx3-ubyte'
-#_TRAIN_LABEL_FILE = _SRC_PATH + u'\\train-labels.idx1-ubyte'
-#_TEST_DATA_FILE = _SRC_PATH + u'\\t10k-images.idx3-ubyte'
-#_TEST_LABEL_FILE = _SRC_PATH + u'\\t10k-labels.idx1-ubyte'
+# MNIST data route
+_SRC_PATH = u'..\\'
+_TRAIN_DATA_FILE = _SRC_PATH + u'\\train-images.idx3-ubyte'
+_TRAIN_LABEL_FILE = _SRC_PATH + u'\\train-labels.idx1-ubyte'
+_TEST_DATA_FILE = _SRC_PATH + u'\\t10k-images.idx3-ubyte'
+_TEST_LABEL_FILE = _SRC_PATH + u'\\t10k-labels.idx1-ubyte'
 
-_TRAIN_DATA_FILE = 'train-images.idx3-ubyte'
-_TRAIN_LABEL_FILE = 'train-labels.idx1-ubyte'
-_TEST_DATA_FILE = 't10k-images.idx3-ubyte'
-_TEST_LABEL_FILE = 't10k-labels.idx1-ubyte'
+#_TRAIN_DATA_FILE = 'train-images.idx3-ubyte'
+#_TRAIN_LABEL_FILE = 'train-labels.idx1-ubyte'
+#_TEST_DATA_FILE = 't10k-images.idx3-ubyte'
+#_TEST_LABEL_FILE = 't10k-labels.idx1-ubyte'
 
 
-# MNIST 데이터 크기 (28x28)
-_N_ROW = 28                 # 세로 28픽셀
-_N_COL = 28                 # 가로 28픽셀
+# MNIST data size(28x28)
+_N_ROW = 28
+_N_COL = 28
 _N_PIXEL = _N_ROW * _N_COL
 
 
@@ -58,7 +58,7 @@ def loadData(fn):
         dataNumList = st.unpack('B' * _N_PIXEL, dataRawList)
         #dataArr = np.array(dataNumList).reshape(_N_ROW, _N_COL)
         dataArr = np.array(dataNumList)
-        # overflow 수정
+        # overflow
         dataList.append(dataArr.astype('float32')/255.0)
         
     fd.close()
@@ -98,11 +98,11 @@ def loadLabel(fn):
 
 
 def loadMNIST():
-    # 학습 데이터 / 레이블 로드
+    # Load training data/label
     trDataList = loadData(_TRAIN_DATA_FILE)
     trLabelList = loadLabel(_TRAIN_LABEL_FILE)
     
-    # 테스트 데이터 / 레이블 로드
+    # Load test data/label
     tsDataList = loadData(_TEST_DATA_FILE)
     tsLabelList = loadLabel(_TEST_LABEL_FILE)
     
@@ -119,8 +119,6 @@ if __name__ == '__main__':
     print 'len(tsLabelList)', len(tsLabelList)
     
 
-
-# weight를 pkl파일로 저장하는 method
 def save(fn, obj):
     fd = open(fn,'wb')
     pkl.dump(obj,fd)
@@ -147,18 +145,18 @@ for i in range(0,len(tsLabelList)):
     tslabel_onehot[i][tsLabelList[i]] = 1
     
 
-# Data사용이 용이하게 numpy array로 바꿔준다
+# Save as numpy array
     
 trDataList = np.array(trDataList)
 tsDataList = np.array(tsDataList)
 
 # Single layer perceptron
 class SLP:
-    # class선언 시 learning rate를 인자로 받는다
+    # An argument is learning rate
     def __init__(self,lr):
         self.lr = lr
         self.weight = nr.rand(784,10)
-        # Batch size, Training epoch 횟수 설정
+        # Batch size, Training epoch count
         self.batch_size = 10000
         self.tr_epochs = 10
         
@@ -169,7 +167,6 @@ class SLP:
         
         total_batch = len(feat)/self.batch_size
         
-        # 분류 결과가 가장 좋은 파라미터를 저장하기 위해 변수 선언
         self.best_weight=self.weight
         self.best_error=100.0
         fp = open("train_log.txt",'wt')
@@ -177,7 +174,7 @@ class SLP:
         print "\nLearning starts!"
         for epoch in range(self.tr_epochs):
             
-            # 매 학습마다 데이터를 섞어주기 위해 Index변수 따로 선언
+            # Shuffling Idx
             trainIdx = range(0,len(feat))
             nr.shuffle(trainIdx)
             
@@ -187,25 +184,23 @@ class SLP:
                 cost = 0
                 
                 for j in range(i*self.batch_size,(i+1)*self.batch_size):
-                    # 갱신할 weight를 임시로 저장할 변수 선언
                     new_weight=self.weight
                     
-                    # 활성화함수 통과
+                    # Activation function
                     result=self.activation(np.dot(feat[trainIdx[j]]/10,self.weight))
                     
-                    # weight 갱신 (column별로 갱신)
+                    # Renew weight (by column)
                     for k in range(10):
-                        # weight 갱신을 위해 reshape을 해준다
+                        # Reshape for renewal
                         new_weight[:,[k]] = new_weight[:,[k]] + (self.lr*(label[trainIdx[j]][k]-result[0][k]) \
                                     *result[0][k]*(1-result[0][k])*feat[trainIdx[j]]).reshape([784,1])
-                    ## 여기 잘못된듯?
-                    
-                    # 평균 cost 계산
+
+                    # Compute mean cost
                     cost += (np.sum(label[trainIdx[j]]-result)**2)/2
                     
                     self.weight=new_weight
                     
-                # 평균 cost 계산
+                # Compute mean cost
                 cost = cost/self.batch_size
                 fp.write("{}. cost: {}\n".format(j+1,np.sum(cost)))
                 print "{}. cost: {}".format(j+1,np.sum(cost))
@@ -214,7 +209,6 @@ class SLP:
                 fp.write("Error_rate: {}\n".format(error))
                 print("Error_rate: {}".format(error))
                 
-                # 분류 결과가 지금까지 중 가장 좋았다면 결과와 weight을 저장
                 if(error<self.best_error):
                     self.best_error=error
                     self.best_weight=self.weight
@@ -227,7 +221,7 @@ class SLP:
     def predict(self,feat,label,weight):
         correct=0
         
-        # 데이터를 순서대로 돌며 예측값과 정답을 비교
+        # Compare predict and correct value
         for i in range(len(feat)):
             pred=np.argmax(np.dot(feat[i],weight))
             if(label[i][pred]==1.0):
@@ -239,6 +233,6 @@ class SLP:
 test = SLP(0.05)
 test.train(trDataList,trlabel_onehot)
 
-# 학습 결과가 가장 좋은 weight pkl파일로 저장
+# Save best parameters
 param = test.best_weight
 save('best_param.pkl',param)

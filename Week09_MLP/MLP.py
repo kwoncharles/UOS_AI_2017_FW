@@ -102,7 +102,7 @@ fp = open("test_output.txt",'wt')
 
 correct = 0
 
-fp.write("\n2015920070 신권철\nTrain log\n\n")
+fp.write("\nTrain log\n\n")
 for i in range(4):
     L1 = np.dot(train_data[i],w1)
     L1 = activation(L1)
